@@ -5,7 +5,7 @@
 - 📫 How to reach me ...    
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I started my career in I.T. as a Computer tech. with a A Pluse cert. I have worked in Computer forensics and currently working on my
-- Python Developer cert and A.I. and Machine Learning
+- full stack Web Developer. I also have my C#/.net Cert.
 
 <!---
 MSMITH71910/MSMITH71910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
