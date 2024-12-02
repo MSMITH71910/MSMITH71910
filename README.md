@@ -12,7 +12,7 @@
 4. **C#/.NET Full-Stack Web Development with ASP.NET Core and Blazor Certification**
 5. **Web Developer Certification**  
 
-Feel free to let me know if you need any additional adjustments or details!
+
 
 ### Responsibilities:
 - **Data Analysis**: Collect, process, and analyze substantial data sets from diverse sources to identify trends, patterns, and anomalies.
