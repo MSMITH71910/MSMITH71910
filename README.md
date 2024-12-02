@@ -1,13 +1,60 @@
-- 👋 Hi, I’m @MSMITH71910 My Name is Michael R. Smith
-- 👀 I’m interested in A.I. Machine Learning & Data science, Business Intelligence (BI) Analyst 
-- 🌱 I’m currently furthing my education in Data Science and Business Intelligence (BI) Analyst
-- 💞️ I’m looking to utilizing my education in any projects that apply to my expertise as well as branching out and learning on the Job!!
-- 📫 How to reach me Email me at M.Smith71910@gmail.com    
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I started my career in I.T. as a Computer tech. with a A Pluse cert. I have worked in Computer forensics and currently working on my Business Intelligence (BI) Analyst 
--  . I also have my C#/.net Cert, Web Development Cert, Python Developer Cert, A.I. Machine Learning and Data Science Cert.
+<h1>Hi, I'm Mike! <br/><a href="https://github.com/MSMITH71910"> </a> <a href="https://www.linkedin.com/in/michael-smith-2b38b260">Business Intelligence Analyst, Computer Science, Python Developer</a> <a href=r</a></h1>
 
-<!---
-MSMITH71910/MSMITH71910 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻Business Intelligence Analyst Projects:</h2>
+<h2>As a Business Intelligence (BI) Analyst, I leverage data analysis to provide actionable insights that enable organizations to make informed business decisions.</h2>
+<h2>Here are some key responsibilities and skills typically associated with my role:</h2>
+
+### Professional Certifications:
+
+1. **A+ Certification**
+2. **Artificial Intelligence: Machine Learning and Data Science Certification**
+3. **Python Developer Certification**
+4. **C#/.NET Full-Stack Web Development with ASP.NET Core and Blazor Certification**
+5. **Web Developer Certification**  
+
+Feel free to let me know if you need any additional adjustments or details!
+
+### Responsibilities:
+- **Data Analysis**: Collect, process, and analyze substantial data sets from diverse sources to identify trends, patterns, and anomalies.
+- **Reporting**: Develop comprehensive reports and dashboards that synthesize data into clear, actionable visualizations for stakeholders.
+- **Business Insights**: Offer actionable recommendations derived from data analysis to support strategic planning and informed decision-making.
+- **Collaboration**: Engage with various departments (such as marketing, sales, and finance) to understand their data requirements and align support for their objectives.
+- **Data Governance**: Maintain the quality and integrity of the data utilized for analysis, ensuring compliance with data management standards.
+- **Tool Proficiency**: Employ advanced BI tools (such as Tableau, Power BI, and SQL) to facilitate data manipulation and visualization.
+
+### Skills:
+- **Analytical Skills**: Exceptional problem-solving and analytical thinking abilities to interpret complex data findings.
+- **Technical Proficiency**: Proficient in data analysis tools, SQL, and various statistical methods for in-depth analysis.
+- **Communication**: Strong verbal and written communication skills to effectively convey insights and findings to non-technical stakeholders.
+- **Attention to Detail**: Keen ability to identify and rectify data discrepancies, ensuring accuracy and reliability.
+- **Business Acumen**: Solid understanding of business operations and objectives, enabling the delivery of relevant and strategic insights.
+
+### What You Bring to the Company:
+- **Strong Analytical Skills**: Your expertise in deriving actionable insights from complex data sets can enhance decision-making processes.
+- **Proficiency in BI Tools**: Your familiarity with leading BI tools will streamline data reporting and visualization initiatives.
+- **Data-Driven Mindset**: A commitment to data-driven strategies will empower the organization to adapt and thrive in a competitive landscape.
+- **Collaboration**: An eagerness to work across departments fosters cross-functional initiatives that enhance organizational effectiveness.
+- **Continuous Improvement**: A dedication to learning and applying innovative data methodologies will help the organization stay ahead of market trends.
+-
+
+### Python:
+### My proficiency in Python enhances my role as a Business Intelligence Analyst by enabling efficient data manipulation and analysis. Utilizing libraries like Pandas and NumPy allows for quick processing of large datasets, while Matplotlib and Seaborn facilitate compelling visualizations. Additionally, Python supports automation and integration with various data sources, streamlining workflows. This expertise empowers me to deliver deeper insights and impactful reports, driving informed business decisions.
+
+
+Under Construction 
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  
+  - 
+- 
+- <b>Power BI</b>
+  
+- <b>C# (.NET Desktop Applications)</b>
+  
+
+  
+
+<h2> 🤳 Connect with me:</h2>
+
+<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+www.linkedin.com/in/michael-smith-2b38b260
