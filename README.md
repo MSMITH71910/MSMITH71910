@@ -41,13 +41,23 @@
 ### My proficiency in Python enhances my role as a Business Intelligence Analyst by enabling efficient data manipulation and analysis. Utilizing libraries like Pandas and NumPy allows for quick processing of large datasets, while Matplotlib and Seaborn facilitate compelling visualizations. Additionally, Python supports automation and integration with various data sources, streamlining workflows. This expertise empowers me to deliver deeper insights and impactful reports, driving informed business decisions.
 
 
-Under Construction 
+### AI Engineer:
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-- <b>GenAi CHatbot Development</b>
-- <b>Power BI</b>  
-- <b>C# (.NET Desktop Applications)</b>
-  
+## Summary:
+As an AI Engineer, I specialize in designing, developing, and deploying AI-driven solutions to solve complex problems and optimize processes. My expertise lies in building intelligent systems using machine learning (ML), deep learning frameworks, and natural language processing (NLP). With a strong foundation in programming (e.g., Python), data analysis, and model deployment, I bridge the gap between AI research and real-world applications. I have hands-on experience working on projects such as financial chatbots, predictive analytics, and automation tools, demonstrating my ability to deliver impactful AI solutions.
+Core Competencies:
+
+- Proficient in machine learning frameworks (TensorFlow, PyTorch, scikit-learn).
+- Expertise in data preprocessing, model training, and deployment pipelines.
+- Strong programming skills in Python and experience with related libraries (Pandas, NumPy).
+- Knowledge of natural language processing (NLP) and chatbot development.
+- Skilled in working with large datasets and optimizing AI models for production.
+- Experience in integrating AI systems into real-world applications.
+- Data Structures and Algorithms Practice (AlgoExpert)
+- GenAi CHatbot Development
+- Power BI</b>  
+- C# (.NET Desktop Applications)
+- Excel/VBA
 
   
 
