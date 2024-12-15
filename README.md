@@ -44,11 +44,8 @@
 Under Construction 
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  
-  - 
-- 
-- <b>Power BI</b>
-  
+- <b>GenAi CHatbot Development</b>
+- <b>Power BI</b>  
 - <b>C# (.NET Desktop Applications)</b>
   
 
