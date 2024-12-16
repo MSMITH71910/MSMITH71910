@@ -43,7 +43,7 @@
 
 ### AI Engineer:
 
-## Summary:
+ **Summary:**
 As an AI Engineer, I specialize in designing, developing, and deploying AI-driven solutions to solve complex problems and optimize processes. My expertise lies in building intelligent systems using machine learning (ML), deep learning frameworks, and natural language processing (NLP). With a strong foundation in programming (e.g., Python), data analysis, and model deployment, I bridge the gap between AI research and real-world applications. I have hands-on experience working on projects such as financial chatbots, predictive analytics, and automation tools, demonstrating my ability to deliver impactful AI solutions.
 Core Competencies:
 
