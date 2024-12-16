@@ -38,7 +38,7 @@
 -
 
 ### Python:
-## My proficiency in Python enhances my role as a Business Intelligence Analyst by enabling efficient data manipulation and analysis. Utilizing libraries like Pandas and NumPy allows for quick processing of large datasets, while Matplotlib and Seaborn facilitate compelling visualizations. Additionally, Python supports automation and integration with various data sources, streamlining workflows. This expertise empowers me to deliver deeper insights and impactful reports, driving informed business decisions.
+**My proficiency in Python enhances my role as a Business Intelligence Analyst by enabling efficient data manipulation and analysis. Utilizing libraries like Pandas and NumPy allows for quick processing of large datasets, while Matplotlib and Seaborn facilitate compelling visualizations. Additionally, Python supports automation and integration with various data sources, streamlining workflows. This expertise empowers me to deliver deeper insights and impactful reports, driving informed business decisions.**
 
 
 ### AI Engineer:
