@@ -29,7 +29,7 @@
 - **Attention to Detail**: Keen ability to identify and rectify data discrepancies, ensuring accuracy and reliability.
 - **Business Acumen**: Solid understanding of business operations and objectives, enabling the delivery of relevant and strategic insights.
 
-### What You Bring to the Company:
+### What I Bring to the Company:
 - **Strong Analytical Skills**: Your expertise in deriving actionable insights from complex data sets can enhance decision-making processes.
 - **Proficiency in BI Tools**: Your familiarity with leading BI tools will streamline data reporting and visualization initiatives.
 - **Data-Driven Mindset**: A commitment to data-driven strategies will empower the organization to adapt and thrive in a competitive landscape.
