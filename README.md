@@ -1,6 +1,13 @@
 <h1>Hi, I'm Mike! <br/><a href="https://github.com/MSMITH71910"> </a> <a href="https://www.linkedin.com/in/michael-smith-2b38b260">Front-End Development, Business Intelligence Analyst, Computer Science, Python Developer</a> <a href=r</a></h1>
-<h2>👨‍💻 Front-End Development Projects:</h2>
-<h2>As a Front-End Developer, I specialize in creating visually appealing, responsive, and user-friendly web applications that deliver seamless user experiences.</h2>
+<h2>👨‍💻 Full-Stack Development Projects:</h2>
+<h2>
+As a Full Stack Developer, I specialize in creating visually appealing, responsive, and user-friendly web applications that deliver seamless user experiences.
+
+I have a strong foundation in front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, and more. My passion lies in solving complex problems and building scalable, maintainable solutions that meet user needs.
+
+Over the years, I have worked on a variety of projects, ranging from small business websites to large-scale web applications. My goal is to continuously learn and grow as a developer while contributing to meaningful projects that make a difference.
+
+When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and mentoring aspiring developers to help them achieve their goals..</h2>
 <h2>Here are some key responsibilities and skills typically associated with my role:</h2>
 
 ### **Professional Certifications:**
