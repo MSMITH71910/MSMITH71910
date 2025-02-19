@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mike! <br/><a href="https://github.com/MSMITH71910"> </a> <a href="https://www.linkedin.com/in/michael-smith-2b38b260">Front-End Development, Business Intelligence Analyst, Computer Science, Python Developer</a> <a href=r</a></h1>
+<h1>Hi, I'm Mike! <br/><a href="https://github.com/MSMITH71910"> </a> <a href="https://www.linkedin.com/in/michael-smith-2b38b260">Full-Stack Development, Business Intelligence Analyst, Computer Science, Python Developer</a> <a href=r</a></h1>
 <h2>👨‍💻 Full-Stack Development Projects:</h2>
 <h2>
 As a Full Stack Developer, I specialize in creating visually appealing, responsive, and user-friendly web applications that deliver seamless user experiences.
