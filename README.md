@@ -1,13 +1,19 @@
-<h1>Hi, I'm Mike! <br/><a href="https://github.com/MSMITH71910"> </a> <a href="https://www.linkedin.com/in/michael-smith-2b38b260">Full-Stack Development, Business Intelligence Analyst, Computer Science, Python Developer</a> <a href=r</a></h1>
+<h1>Hi, I'm Mike! <br/>
+    <a href="https://github.com/MSMITH71910"></a> 
+    <a href="https://www.linkedin.com/in/michael-smith-2b38b260">Full-Stack Development, Business Intelligence Analyst, Computer Science, Python Developer</a>
+</h1>
+
 <h2>👨‍💻 Full-Stack Development Projects:</h2>
 <h2>
-As a Full Stack Developer, I specialize in creating visually appealing, responsive, and user-friendly web applications that deliver seamless user experiences.
+    As a Full Stack Developer, I specialize in creating visually appealing, responsive, and user-friendly web applications that deliver seamless user experiences.
 
-I have a strong foundation in front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, and more. My passion lies in solving complex problems and building scalable, maintainable solutions that meet user needs.
+    I have a strong foundation in front-end and back-end technologies, including HTML, CSS, JavaScript, React, Node.js, and more. My passion lies in solving complex problems and building scalable, maintainable solutions that meet user needs.
 
-Over the years, I have worked on a variety of projects, ranging from small business websites to large-scale web applications. My goal is to continuously learn and grow as a developer while contributing to meaningful projects that make a difference.
+    Over the years, I have worked on a variety of projects, ranging from small business websites to large-scale web applications. My goal is to continuously learn and grow as a developer while contributing to meaningful projects that make a difference.
 
-When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and mentoring aspiring developers to help them achieve their goals..</h2>
+    When I'm not coding, I enjoy exploring new technologies, contributing to open-source projects, and mentoring aspiring developers to help them achieve their goals.
+</h2>
+
 <h2>Here are some key responsibilities and skills typically associated with my role:</h2>
 
 ### **Professional Certifications:**
@@ -27,7 +33,9 @@ When I'm not coding, I enjoy exploring new technologies, contributing to open-so
 - **Cross-Browser Compatibility**: Test and debug applications to ensure consistent performance across all major browsers.
 - **Collaboration**: Work closely with designers, back-end developers, and stakeholders to deliver cohesive and functional products.
 - **Version Control**: Use Git and GitHub for version control and collaboration on projects.
+
 ---
+
 ### **Skills:**
 - **HTML & CSS**: Proficient in semantic HTML5 and modern CSS3 techniques, including Flexbox and Grid.
 - **JavaScript**: Strong understanding of ES6+ features, DOM manipulation, and event handling.
@@ -47,6 +55,7 @@ When I'm not coding, I enjoy exploring new technologies, contributing to open-so
 - **User-Centric Design**: A focus on creating intuitive and engaging user experiences.
 
 ---
+
 ### Python:
 **My proficiency in Python enhances my role as a Front-End Developer by enabling efficient development of dynamic, interactive, and user-friendly web applications. Utilizing libraries like Flask and Django allows for seamless back-end integration, while tools like Selenium and BeautifulSoup support web scraping and automation. Additionally, Python facilitates testing and debugging, streamlining workflows. This expertise empowers me to deliver responsive, high-performance web applications that meet modern web standards.**
 
@@ -70,6 +79,17 @@ As an AI Engineer, I specialize in designing, developing, and deploying AI-drive
 - Power BI.
 - C# (.NET Desktop Applications).
 - Excel/VBA.
+
+---
+
+## 📂 Pinned Projects:
+
+1. [MSmith71910.github.io](https://github.com/MSMITH71910/MSmith71910.github.io) - HTML
+2. [Background-Generator-WebPage](https://github.com/MSMITH71910/Background-Generator-WebPage) - CSS
+3. [Monsters-Rolodex](https://github.com/MSMITH71910/monsters-rolodex) - JavaScript
+4. [AI-Driven-Financial-Chatbot](https://github.com/MSMITH71910/AI-Driven-Financial-Chatbot) - Python
+5. [GenAI-Stock-Analysis](https://github.com/MSMITH71910/GenAI-Stock-Analysis) - Jupyter Notebook
+6. [Python-Development](https://github.com/MSMITH71910/Python-Development) - Python
 
 ---
 
