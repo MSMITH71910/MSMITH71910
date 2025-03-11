@@ -102,14 +102,26 @@ As an AI Engineer, I specialize in designing, developing, and deploying AI-drive
 
 ---
 
-## 📂 Pinned Projects:
+# My GitHub Repositories
 
-1. [MSmith71910.github.io](https://github.com/MSMITH71910/MSmith71910.github.io) - HTML
-2. [Background-Generator-WebPage](https://github.com/MSMITH71910/Background-Generator-WebPage) - CSS
-3. [Monsters-Rolodex](https://github.com/MSMITH71910/monsters-rolodex) - JavaScript
-4. [AI-Driven-Financial-Chatbot](https://github.com/MSMITH71910/AI-Driven-Financial-Chatbot) - Python
-5. [GenAI-Stock-Analysis](https://github.com/MSMITH71910/GenAI-Stock-Analysis) - Jupyter Notebook
-6. [Python-Development](https://github.com/MSMITH71910/Python-Development) - Python
+Below is a list of my repositories with links to their respective GitHub pages:
+
+- [Pixl - A Pixel Art Editor](https://github.com/MSMITH71910/pixl) - Go (Updated 3 minutes ago)
+- [Sonic_Pong](https://github.com/MSMITH71910/Sonic_Pong) - JavaScript (Updated last week)
+- [joke-teller](https://github.com/MSMITH71910/joke-teller) - JavaScript (Updated last week)
+- [picture-in-picture](https://github.com/MSMITH71910/picture-in-picture) - CSS (Updated last week)
+- [funny-quote-generator](https://github.com/MSMITH71910/funny-quote-generator) - JavaScript (Updated last week)
+- [crwn-clothing-v2](https://github.com/MSMITH71910/crwn-clothing-v2) - JavaScript (Updated last week)
+- [simplefolio](https://github.com/MSMITH71910/simplefolio) - HTML (MIT License) (Updated 2 weeks ago)
+- [MSMITH71910](https://github.com/MSMITH71910/MSMITH71910) - Config files for my GitHub profile (Updated 2 weeks ago)
+- [monsters-rolodex](https://github.com/MSMITH71910/monsters-rolodex) - JavaScript (Updated 2 weeks ago)
+- [Background-Generator-WebPage](https://github.com/MSMITH71910/Background-Generator-WebPage) - CSS (MIT License) (Updated 3 weeks ago)
+- [Excel-Retirement-Planner](https://github.com/MSMITH71910/Excel-Retirement-Planner) - Excel (Updated on Dec 29, 2024)
+- [GenAI-Stock-Analysis](https://github.com/MSMITH71910/GenAI-Stock-Analysis) - Jupyter Notebook (Updated on Dec 22, 2024)
+- [AI-Driven-Financial-Chatbot](https://github.com/MSMITH71910/AI-Driven-Financial-Chatbot) - Python (Updated on Dec 22, 2024)
+- [Python-Development](https://github.com/MSMITH71910/Python-Development) - Python (Updated on Dec 15, 2024)
+- [Business-Intelligence-Analyst](https://github.com/MSMITH71910/Business-Intelligence-Analyst) - Jupyter Notebook (Updated on Dec 2, 2024)
+- [MSmith71910.github.io](https://github.com/MSMITH71910/MSmith71910.github.io) - HTML (Updated on Jul 3, 2024)
 
 ---
 
