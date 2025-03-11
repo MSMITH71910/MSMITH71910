@@ -106,7 +106,7 @@ As an AI Engineer, I specialize in designing, developing, and deploying AI-drive
 
 Below is a list of my repositories with links to their respective GitHub pages:
 
-- [Pixl - A Pixel Art Editor](https://github.com/MSMITH71910/pixl) - Go (Updated 3 minutes ago)
+- [Pixl - A Pixel Art Editor](https://github.com/MSMITH71910/github.com-MSMITH71910-pixl) - Go (Updated 3 minutes ago)
 - [Sonic_Pong](https://github.com/MSMITH71910/Sonic_Pong) - JavaScript (Updated last week)
 - [joke-teller](https://github.com/MSMITH71910/joke-teller) - JavaScript (Updated last week)
 - [picture-in-picture](https://github.com/MSMITH71910/picture-in-picture) - CSS (Updated last week)
