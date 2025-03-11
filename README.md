@@ -1,6 +1,6 @@
 <h1>Hi, I'm Mike! <br/>
     <a href="https://github.com/MSMITH71910"></a> 
-    <a href="https://www.linkedin.com/in/michael-smith-2b38b260">Full-Stack Development, Business Intelligence Analyst, Computer Science, Python Developer</a>
+    <a href="https://www.linkedin.com/in/michael-smith-2b38b260">Full-Stack Development, Golang Developer, Business Intelligence Analyst, Computer Science, Python Developer</a>
 </h1>
 
 <h2>👨‍💻 Full-Stack Development:😊</h2>
