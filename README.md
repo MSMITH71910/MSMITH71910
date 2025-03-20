@@ -122,6 +122,7 @@ Below is a list of my repositories with links to their respective GitHub pages:
 - [Python-Development](https://github.com/MSMITH71910/Python-Development) - Python (Updated on Dec 15, 2024)
 - [Business-Intelligence-Analyst](https://github.com/MSMITH71910/Business-Intelligence-Analyst) - Jupyter Notebook (Updated on Dec 2, 2024)
 - [MSmith71910.github.io](https://github.com/MSMITH71910/MSmith71910.github.io) - HTML (Updated on Jul 3, 2024)
+- [FocusTime-](https://github.com/MSMITH71910/FocusTime-) - JavaSript
 
 ---
 
