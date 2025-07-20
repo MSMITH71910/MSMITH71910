@@ -110,7 +110,7 @@ Below is a list of my repositories with links to their respective GitHub pages:
 - [CartoonCodeStreet](https://github.com/MSMITH71910/CartoonCodeStreet) - TypeScript 98.1% Three.js 1.7% other 0.2% (updated 2 days ago)
 - [Crwn-Clothing](https://github.com/MSMITH71910/crwn-clothing) - JavaScript 87.2% SCSS 8.3% HTML 4.5% (Updated 2 days ago)
 - [Clips_Angular_Gamer_site](https://github.com/MSMITH71910/Clips_Angular_Gamer_site) - TypeScript 63.7% HTML 26.3% CSS 7.6% JavaScript 2.4% (Updated 10 hours ago)
-- [Pixl - A Pixel Art Editor](https://github.com/MSMITH71910/github.com-MSMITH71910-pixl) - Go (Updated 3 minutes ago)
+- [simplefolio](https://github.com/MSMITH71910/simplefolio) - HTML (MIT License) (Updated 2 weeks ago)
 - [Joke-Teller](https://github.com/MSMITH71910/joke-teller) - JavaScript55.3% CSS 27.7% HTML 17.0% (Updated 4 months ago)
 - [Funny-Quote_Generator](https://github.com/MSMITH71910/funny-quote-generator) - JavaScript 58.6% CSS 21.7% HTML 19.7%
 - [Sonic_Pong](https://github.com/MSMITH71910/Sonic_Pong) - JavaScript (Updated last week)
@@ -118,7 +118,7 @@ Below is a list of my repositories with links to their respective GitHub pages:
 - [picture-in-picture](https://github.com/MSMITH71910/picture-in-picture) - CSS (Updated last week)
 - [funny-quote-generator](https://github.com/MSMITH71910/funny-quote-generator) - JavaScript (Updated last week)
 - [crwn-clothing-v2](https://github.com/MSMITH71910/crwn-clothing-v2) - JavaScript (Updated last week)
-- [simplefolio](https://github.com/MSMITH71910/simplefolio) - HTML (MIT License) (Updated 2 weeks ago)
+- [Pixl - A Pixel Art Editor](https://github.com/MSMITH71910/github.com-MSMITH71910-pixl) - Go (Updated 3 minutes ago)
 - [MSMITH71910](https://github.com/MSMITH71910/MSMITH71910) - Config files for my GitHub profile (Updated 2 weeks ago)
 - [monsters-rolodex](https://github.com/MSMITH71910/monsters-rolodex) - JavaScript (Updated 2 weeks ago)
 - [Background-Generator-WebPage](https://github.com/MSMITH71910/Background-Generator-WebPage) - CSS (MIT License) (Updated 3 weeks ago)
