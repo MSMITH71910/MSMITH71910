@@ -32,40 +32,59 @@ Certified in:
   "Tools": ["Docker", "Git", "CI/CD"]
 }
 
----
+## 🌟 Featured Projects
 
-# My GitHub Repositories
+### 🎨 Web Development
 
-Below is a list of my repositories with links to their respective GitHub pages:
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| Crwn-Clothing | E-commerce platform | React, SCSS, Firebase | [View](https://github.com/MSMITH71910/crwn-clothing) |
+| Clips Gaming Platform | Twitch-like streaming site | Angular, TypeScript | [View](https://github.com/MSMITH71910/Clips_Angular_Gamer_site) |
+| CartoonCodeStreet | Interactive 3D coding environment | TypeScript, Three.js | [View](https://github.com/MSMITH71910/CartoonCodeStreet) |
+| simplefolio | Portfolio template | HTML, SCSS, JavaScript | [View](https://github.com/MSMITH71910/simplefolio) |
 
+### 🤖 AI & Data Science
 
-- [CartoonCodeStreet](https://github.com/MSMITH71910/CartoonCodeStreet) - TypeScript 98.1% Three.js 1.7% other 0.2% (updated 2 days ago)
-- [Crwn-Clothing](https://github.com/MSMITH71910/crwn-clothing) - JavaScript 87.2% SCSS 8.3% HTML 4.5% (Updated 2 days ago)
-- [Clips_Angular_Gamer_site](https://github.com/MSMITH71910/Clips_Angular_Gamer_site) - TypeScript 63.7% HTML 26.3% CSS 7.6% JavaScript 2.4% (Updated 10 hours ago)
-- [simplefolio](https://github.com/MSMITH71910/simplefolio) - HTML (MIT License) (Updated 2 weeks ago)
-- [Joke-Teller](https://github.com/MSMITH71910/joke-teller) - JavaScript55.3% CSS 27.7% HTML 17.0% (Updated 4 months ago)
-- [Funny-Quote_Generator](https://github.com/MSMITH71910/funny-quote-generator) - JavaScript 58.6% CSS 21.7% HTML 19.7%
-- [Sonic_Pong](https://github.com/MSMITH71910/Sonic_Pong) - JavaScript (Updated last week)
-- [joke-teller](https://github.com/MSMITH71910/joke-teller) - JavaScript (Updated last week)
-- [picture-in-picture](https://github.com/MSMITH71910/picture-in-picture) - CSS (Updated last week)
-- [funny-quote-generator](https://github.com/MSMITH71910/funny-quote-generator) - JavaScript (Updated last week)
-- [crwn-clothing-v2](https://github.com/MSMITH71910/crwn-clothing-v2) - JavaScript (Updated last week)
-- [Pixl - A Pixel Art Editor](https://github.com/MSMITH71910/github.com-MSMITH71910-pixl) - Go (Updated 3 minutes ago)
-- [MSMITH71910](https://github.com/MSMITH71910/MSMITH71910) - Config files for my GitHub profile (Updated 2 weeks ago)
-- [monsters-rolodex](https://github.com/MSMITH71910/monsters-rolodex) - JavaScript (Updated 2 weeks ago)
-- [Background-Generator-WebPage](https://github.com/MSMITH71910/Background-Generator-WebPage) - CSS (MIT License) (Updated 3 weeks ago)
-- [Excel-Retirement-Planner](https://github.com/MSMITH71910/Excel-Retirement-Planner) - Excel (Updated on Dec 29, 2024)
-- [GenAI-Stock-Analysis](https://github.com/MSMITH71910/GenAI-Stock-Analysis) - Jupyter Notebook (Updated on Dec 22, 2024)
-- [AI-Driven-Financial-Chatbot](https://github.com/MSMITH71910/AI-Driven-Financial-Chatbot) - Python (Updated on Dec 22, 2024)
-- [Python-Development](https://github.com/MSMITH71910/Python-Development) - Python (Updated on Dec 15, 2024)
-- [Business-Intelligence-Analyst](https://github.com/MSMITH71910/Business-Intelligence-Analyst) - Jupyter Notebook (Updated on Dec 2, 2024)
-- [MSmith71910.github.io](https://github.com/MSMITH71910/MSmith71910.github.io) - HTML (Updated on Jul 3, 2024)
-- [FocusTime-](https://github.com/MSMITH71910/FocusTime-) - JavaSript
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| AI Financial Chatbot | NLP-powered financial assistant | Python, NLP | [View](https://github.com/MSMITH71910/AI-Driven-Financial-Chatbot) |
+| GenAI Stock Analysis | Predictive market modeling | Python, Jupyter | [View](https://github.com/MSMITH71910/GenAI-Stock-Analysis) |
+| Business Intelligence | Data analysis projects | Power BI, Python | [View](https://github.com/MSMITH71910/Business-Intelligence-Analyst) |
 
----
+### 🎮 Fun Projects
 
-## 🤳 Connect with Me:
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| Sonic Pong | Classic game with Sonic theme | JavaScript | [View](https://github.com/MSMITH71910/Sonic_Pong) |
+| Joke Teller | Voice-controlled joke app | JavaScript, APIs | [View](https://github.com/MSMITH71910/joke-teller) |
+| Pixl Art Editor | Pixel art creation tool | Golang | [View](https://github.com/MSMITH71910/pixl) |
 
-<img align="left" alt="Michael Smith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href="https://www.linkedin.com/in/michael-smith-2b38b260">Michael R. Smith LinkedIn Profile</a> | 
-<a href="https://github.com/MSMITH71910">GitHub Profile</a>
+## 📚 All Repositories
+
+### Web Development
+- [monsters-rolodex](https://github.com/MSMITH71910/monsters-rolodex) - React practice
+- [Background Generator](https://github.com/MSMITH71910/Background-Generator-WebPage) - CSS gradient tool
+- [MSmith71910.github.io](https://github.com/MSMITH71910/MSmith71910.github.io) - Personal site
+
+### Python
+- [Python Development](https://github.com/MSMITH71910/Python-Development) - Python projects
+- [Excel Retirement Planner](https://github.com/MSMITH71910/Excel-Retirement-Planner) - Financial tool
+
+### Utilities
+- [picture-in-picture](https://github.com/MSMITH71910/picture-in-picture) - Browser utility
+- [FocusTime](https://github.com/MSMITH71910/FocusTime-) - Productivity app
+- [MSMITH71910](https://github.com/MSMITH71910/MSMITH71910) - Profile config
+
+## 🔥 What I Bring
+- **Full-Stack Expertise**: From UI design to database optimization
+- **AI Integration**: Smart features for web applications
+- **Performance Focus**: Optimized, scalable solutions
+- **Continuous Learning**: Always expanding my skill set
+- **Collaborative Spirit**: Team-oriented development
+
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/michael-smith-2b38b260)
+- 🐙 [GitHub](https://github.com/MSMITH71910)
+- 📧 Email: [Your Email Here]
+
+⭐ **Fun Fact**: I love blending creativity with code - whether it's game dev, pixel art, or generative AI!
