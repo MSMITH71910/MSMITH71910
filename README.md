@@ -85,6 +85,6 @@ Certified in:
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/michael-smith-2b38b260)
 - 🐙 [GitHub](https://github.com/MSMITH71910)
-- 📧 Email: [M.Smith71910@gmail.com]
+- 📧 [Email](M.Smith71910@gmail.com)
 
 ⭐ **Fun Fact**: I love blending creativity with code - whether it's game dev, pixel art, or generative AI!
