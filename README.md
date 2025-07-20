@@ -106,7 +106,8 @@ As an AI Engineer, I specialize in designing, developing, and deploying AI-drive
 
 Below is a list of my repositories with links to their respective GitHub pages:
 
-- [Clips_Angular_Gamer_site](https://github.com/MSMITH71910/Clips_Angular_Gamer_site) - 
+- [CartoonCodeStreet](https://github.com/MSMITH71910/CartoonCodeStreet) - TypeScript 98.1% Three.js 1.7% other 0.2% (updated 2 days ago)
+- [Clips_Angular_Gamer_site](https://github.com/MSMITH71910/Clips_Angular_Gamer_site) - TypeScript 63.7% HTML 26.3% CSS 7.6% JavaScript 2.4% (Updated 10 hours ago)
 - [Pixl - A Pixel Art Editor](https://github.com/MSMITH71910/github.com-MSMITH71910-pixl) - Go (Updated 3 minutes ago)
 - [Sonic_Pong](https://github.com/MSMITH71910/Sonic_Pong) - JavaScript (Updated last week)
 - [joke-teller](https://github.com/MSMITH71910/joke-teller) - JavaScript (Updated last week)
