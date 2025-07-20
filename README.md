@@ -1,104 +1,36 @@
-<h1>Hi, I'm Mike! <br/>
-    <a href="https://github.com/MSMITH71910"></a> 
-    <a href="https://www.linkedin.com/in/michael-smith-2b38b260">Full-Stack Development,Python Developer, Django Developer, Golang Developer, Business Intelligence Analyst, Computer Science</a>
-</h1>
+# 👋 Hi, I'm Mike Smith
 
-<h2>👨‍💻 Full-Stack Development:😊</h2>
+### **Full-Stack Developer | Python & AI Specialist | Golang Enthusiast | Business Intelligence Analyst**
 
-As a **Full Stack Developer**, your role involves creating and maintaining both the **front-end** (user interface) and **back-end** (server, database, and application logic) of web applications. This dual expertise allows you to deliver **seamless user experiences** by ensuring that all layers of a web application work together efficiently.
-
-Your **strong foundation** in front-end and back-end technologies, such as **HTML**, **CSS**, **JavaScript**, **React**, and **Node.js**, aligns with the core skills required for full-stack development. These technologies enable you to build **visually appealing, responsive, and user-friendly web applications** that adapt to various devices and screen sizes.
+[![GitHub](https://img.shields.io/badge/GitHub-MSITH71910-181717?style=for-the-badge&logo=github)](https://github.com/MSMITH71910)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Smith-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-smith-2b38b260)
 
 ---
 
-### Key Responsibilities
+## 🚀 About Me
 
-- **Front-End Development**:  
-  Creating intuitive and engaging user interfaces using tools like **React** and **CSS frameworks**. This involves ensuring that the design is both functional and visually appealing.
+I'm a passionate developer with expertise across multiple domains:
+- 💻 Full-stack web development (React, Angular, Django, Node.js)
+- 🐍 Python development (Django, Flask, Data Science)
+- 🤖 AI/ML engineering (TensorFlow, NLP, Chatbots)
+- 📊 Business Intelligence (Power BI, Data Analysis)
+- 🎮 Game development enthusiast
 
-- **Back-End Development**:  
-  Managing server-side logic, databases, and APIs using technologies like **Node.js**. This ensures that the application is scalable and secure.
-
-- **Problem Solving**:  
-  Tackling complex challenges to build **scalable and maintainable solutions** that meet user needs.
-
-- **Collaboration**:  
-  Working closely with designers, stakeholders, and other developers to deliver cohesive products.
+Certified in:
+- A+ | Meta Front-End | Python Development | AI/ML | C#/.NET
 
 ---
 
-### Career Growth and Passion
+## 🛠️ Tech Stack
 
-Your passion for **mentoring aspiring developers**, contributing to **open-source projects**, and exploring **new technologies** reflects the qualities of a successful full-stack developer. These activities not only enhance your skills but also demonstrate your commitment to **continuous learning and growth**.
-
-By working on a variety of projects, from **small business websites** to **large-scale web applications**, you’ve gained the versatility and experience that make you a **valuable asset** in the tech industry. Full-stack developers are highly sought-after due to their ability to handle multiple layers of development, making them indispensable for companies building and maintaining their tech stacks.
-
-
-<h2>Here are some key responsibilities and skills typically associated with my role:</h2>
-
-### **Professional Certifications:**
-
-1. **A+ Certification**
-2. **Artificial Intelligence: Machine Learning and Data Science Certification**
-3. **Python Developer Certification**
-4. **C#/.NET Full-Stack Web Development with ASP.NET Core and Blazor Certification**
-5. **Meta Front-End Developer Certification**
-
----
-
-### **Responsibilities:**
-- **Responsive Design**: Build websites and applications that adapt seamlessly to different screen sizes and devices.
-- **UI/UX Implementation**: Translate design mockups into functional, interactive user interfaces using HTML, CSS, and JavaScript.
-- **Performance Optimization**: Ensure websites load quickly and efficiently by optimizing assets and implementing best practices.
-- **Cross-Browser Compatibility**: Test and debug applications to ensure consistent performance across all major browsers.
-- **Collaboration**: Work closely with designers, back-end developers, and stakeholders to deliver cohesive and functional products.
-- **Version Control**: Use Git and GitHub for version control and collaboration on projects.
-
----
-
-### **Skills:**
-- **HTML & CSS**: Proficient in semantic HTML5 and modern CSS3 techniques, including Flexbox and Grid.
-- **JavaScript**: Strong understanding of ES6+ features, DOM manipulation, and event handling.
-- **Frameworks & Libraries**: Experience with React.js, Vue.js, or Angular for building dynamic user interfaces.
-- **Responsive Design**: Expertise in creating mobile-first designs using media queries and frameworks like Bootstrap or Tailwind CSS.
-- **Version Control**: Skilled in Git for managing codebases and collaborating with teams.
-- **Debugging**: Proficient in using browser developer tools to debug and optimize code.
-- **Accessibility**: Knowledge of WCAG standards to ensure websites are accessible to all users.
-
----
-
-### **What I Bring to the Company:**
-- **Creative Problem-Solving**: Ability to tackle complex UI/UX challenges and deliver innovative solutions.
-- **Attention to Detail**: A meticulous approach to coding ensures clean, maintainable, and scalable codebases.
-- **Collaboration**: Strong communication skills and a team-oriented mindset to work effectively with cross-functional teams.
-- **Continuous Learning**: A passion for staying updated with the latest front-end technologies and trends.
-- **User-Centric Design**: A focus on creating intuitive and engaging user experiences.
-
----
-
-### Python:
-**My proficiency in Python enhances my role as a Front-End Developer by enabling efficient development of dynamic, interactive, and user-friendly web applications. Utilizing libraries like Flask and Django allows for seamless back-end integration, while tools like Selenium and BeautifulSoup support web scraping and automation. Additionally, Python facilitates testing and debugging, streamlining workflows. This expertise empowers me to deliver responsive, high-performance web applications that meet modern web standards.**
-
----
-
-### AI Engineer:
-
-**Summary:**
-As an AI Engineer, I specialize in designing, developing, and deploying AI-driven solutions to solve complex problems and optimize processes. My expertise lies in building intelligent systems using machine learning (ML), deep learning frameworks, and natural language processing (NLP). With a strong foundation in programming (e.g., Python), data analysis, and model deployment, I bridge the gap between AI research and real-world applications. I have hands-on experience working on projects such as financial chatbots, predictive analytics, and automation tools, demonstrating my ability to deliver impactful AI solutions.
-
-**Core Competencies:**
-
-- Proficient in machine learning frameworks (TensorFlow, PyTorch, scikit-learn).
-- Expertise in data preprocessing, model training, and deployment pipelines.
-- Strong programming skills in Python and experience with related libraries (Pandas, NumPy).
-- Knowledge of natural language processing (NLP) and chatbot development.
-- Skilled in working with large datasets and optimizing AI models for production.
-- Experience in integrating AI systems into real-world applications.
-- Data Structures and Algorithms Practice (AlgoExpert).
-- GenAI Chatbot Development.
-- Power BI.
-- C# (.NET Desktop Applications).
-- Excel/VBA.
+```python
+{
+  "Frontend": ["React", "Angular", "TypeScript", "Tailwind", "Three.js"],
+  "Backend": ["Python", "Django", "Node.js", "Golang", ".NET"],
+  "AI/ML": ["TensorFlow", "PyTorch", "NLP", "LLMs"],
+  "Data": ["Pandas", "NumPy", "Power BI", "Excel/VBA"],
+  "Tools": ["Docker", "Git", "CI/CD"]
+}
 
 ---
 
