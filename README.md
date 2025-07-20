@@ -31,6 +31,7 @@ Certified in:
   "Data": ["Pandas", "NumPy", "Power BI", "Excel/VBA"],
   "Tools": ["Docker", "Git", "CI/CD"]
 }
+---
 
 ## 🌟 Featured Projects
 
