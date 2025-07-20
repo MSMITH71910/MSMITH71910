@@ -64,7 +64,7 @@ Certified in:
 ### Web Development
 - [monsters-rolodex](https://github.com/MSMITH71910/monsters-rolodex) - React practice
 - [Background Generator](https://github.com/MSMITH71910/Background-Generator-WebPage) - CSS gradient tool
-- [MSmith71910.github.io](https://github.com/MSMITH71910/MSmith71910.github.io) - Personal site
+- [MSmith71910.github.io](https://github.com/MSMITH71910/MSmith71910.github.io) - Startup site
 
 ### Python
 - [Python Development](https://github.com/MSMITH71910/Python-Development) - Python projects
