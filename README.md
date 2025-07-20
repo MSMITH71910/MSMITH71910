@@ -25,11 +25,11 @@ Certified in:
 
 python
 {
-  "Frontend": ["React", "Angular", "TypeScript", "Tailwind", "Three.js"],
-  "Backend": ["Python", "Django", "Node.js", "Golang", ".NET"],
-  "AI/ML": ["TensorFlow", "PyTorch", "NLP", "LLMs"],
-  "Data": ["Pandas", "NumPy", "Power BI", "Excel/VBA"],
-  "Tools": ["Docker", "Git", "CI/CD"]
+  ["Frontend":] ["React", "Angular", "TypeScript", "Tailwind", "Three.js"],
+  ["Backend":] ["Python", "Django", "Node.js", "Golang", ".NET"],
+  ["AI/ML":] ["TensorFlow", "PyTorch", "NLP", "LLMs"],
+  ["Data":] ["Pandas", "NumPy", "Power BI", "Excel/VBA"],
+  ["Tools":] ["Docker", "Git", "CI/CD"]
 }
 
 ---
