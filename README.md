@@ -23,7 +23,7 @@ Certified in:
 
 ## 🛠️ Tech Stack
 
-```python
+python
 {
   "Frontend": ["React", "Angular", "TypeScript", "Tailwind", "Three.js"],
   "Backend": ["Python", "Django", "Node.js", "Golang", ".NET"],
