@@ -59,7 +59,7 @@ Certified in:
 | Joke Teller | Voice-controlled joke app | JavaScript, APIs | [View](https://github.com/MSMITH71910/joke-teller) |
 | Pixl Art Editor | Pixel art creation tool | Golang | [View](https://github.com/MSMITH71910/pixl) |
 
-## 📚 All Repositories
+## 📚 Other Repositories
 
 ### Web Development
 - [monsters-rolodex](https://github.com/MSMITH71910/monsters-rolodex) - React practice
