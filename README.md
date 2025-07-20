@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mike Smith
 
-### **Full-Stack Developer | Python & AI Specialist | Golang Enthusiast | Business Intelligence Analyst**
+### **Full-Stack Developer | Python & AI Specialist | Game Development | Business Intelligence Analyst**
 
 [![GitHub](https://img.shields.io/badge/GitHub-MSITH71910-181717?style=for-the-badge&logo=github)](https://github.com/MSMITH71910)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Smith-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/michael-smith-2b38b260)
