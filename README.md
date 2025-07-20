@@ -14,10 +14,10 @@ I'm a passionate developer with expertise across multiple domains:
 - 🐍 Python development (Django, Flask, Data Science)
 - 🤖 AI/ML engineering (TensorFlow, NLP, Chatbots)
 - 📊 Business Intelligence (Power BI, Data Analysis)
-- 🎮 Game development enthusiast
+- 🎮 Game development enthusiast (Three.js, Unity, Blender)
 
 Certified in:
-- A+ | Meta Front-End | Python Development | AI/ML | C#/.NET
+- A+ | Meta Front-End | Python Development | AI/ML | C#/.NET | JavaScript
 
 ---
 
@@ -85,6 +85,6 @@ Certified in:
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/michael-smith-2b38b260)
 - 🐙 [GitHub](https://github.com/MSMITH71910)
-- 📧 Email: [Your Email Here]
+- 📧 Email: [M.Smith71910@gmail.com]
 
 ⭐ **Fun Fact**: I love blending creativity with code - whether it's game dev, pixel art, or generative AI!
