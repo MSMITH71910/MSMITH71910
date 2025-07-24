@@ -41,8 +41,10 @@ Certified in:
 | Crwn-Clothing | E-commerce platform | React, SCSS, Firebase | [View](https://github.com/MSMITH71910/crwn-clothing) |
 | Clips Gaming Platform | Twitch-like streaming site | Angular, TypeScript | [View](https://github.com/MSMITH71910/Clips_Angular_Gamer_site) |
 | CartoonCodeStreet | Interactive 3D coding environment | TypeScript, Three.js | [View](https://github.com/MSMITH71910/CartoonCodeStreet) |
+| Interactive Solar System With AI ChatBot Assistant | HTML, JavaScript/Three.js, Shell | [View](https://github.com/MSMITH71910/interactive_solar_system) |
 | simplefolio | Portfolio template | HTML, SCSS, JavaScript | [View](https://github.com/MSMITH71910/simplefolio) |
 | trip-app| Trip Planner - Your Ultimate Travel Companion| HTML, Python| [View](https://github.com/MSMITH71910/trip-app) |
+
 
 ### 🤖 AI & Data Science
 
