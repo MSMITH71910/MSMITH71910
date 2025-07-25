@@ -18,6 +18,7 @@ I'm a passionate developer with expertise across multiple domains:
 - 🤖 AI/ML engineering (TensorFlow, NLP, Chatbots)
 - 📊 Business Intelligence (Power BI, Data Analysis)
 - 🎮 Game development enthusiast (Three.js, Unity, Blender)
+- 😃 I live 15 miles(24 km) west of downtown Philadelphia, Pennsylvania
 
 Certified in:
 - A+ | Meta Front-End | Python Development | AI/ML | C#/.NET | JavaScript
