@@ -54,6 +54,7 @@ Certified in:
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
+| CrewAI Interactive AI Agent Interview Coach | Interactive interview coaching system| Python, CrewAI, OpenAI | [View](https://github.com/MSMITH71910/Interative_Interview_Coach)
 | AI Financial Chatbot | NLP-powered financial assistant | Python, NLP | [View](https://github.com/MSMITH71910/AI-Driven-Financial-Chatbot) |
 | GenAI Stock Analysis | Predictive market modeling | Python, Jupyter | [View](https://github.com/MSMITH71910/GenAI-Stock-Analysis) |
 | Business Intelligence | Data analysis projects | Power BI, Python | [View](https://github.com/MSMITH71910/Business-Intelligence-Analyst) |
