@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Python+%26+AI+Specialist;Business+Intelligence+Analyst;Game+Development+Enthusiast)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Python+%26+Data+Science+Specialist;MLOps+%26+Production+Systems;Full-Stack+AI+Developer)
 
 [![GitHub followers](https://img.shields.io/github/followers/MSMITH71910?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/MSMITH71910)
 [![GitHub stars](https://img.shields.io/github/stars/MSMITH71910?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/MSMITH71910)
@@ -14,16 +14,17 @@
 
 ## 🚀 About Me
 
-> **Passionate Full-Stack Developer** with expertise spanning web development, AI/ML, business intelligence, and game development. Based 15 miles west of Philadelphia, PA, I bring creativity and technical excellence to every project.
+> **AI/ML Engineer & Full-Stack Developer** specializing in production-ready machine learning systems, intelligent applications, and end-to-end MLOps pipelines. Based 15 miles west of Philadelphia, PA, I transform complex data challenges into scalable AI solutions.
 
-- 💻 **Full-Stack Development**: React, Angular, Django, Node.js, TypeScript
-- 🐍 **Python Specialist**: Django, Flask, Data Science, AI/ML
-- 🤖 **AI/ML Engineering**: TensorFlow, PyTorch, NLP, LLMs, CrewAI
-- 📊 **Business Intelligence**: Power BI, Data Analysis, Excel/VBA
-- 🎮 **Game Development**: Three.js, Unity, Blender, Interactive 3D
-- 🏆 **Certified in**: A+ | Meta Front-End | Python | AI/ML | C#/.NET | JavaScript
-- 💼 **Professional Experience**: Web development, inventory management, logistics optimization
-- 🎓 **Education**: Computer Science, Business Intelligence, Art Studies
+- 🤖 **AI/ML Engineering**: PyTorch, TensorFlow, Transformers, Fine-tuning, NLP, Time Series Forecasting
+- 🔧 **MLOps & Production**: Docker, FastAPI, Apache Airflow, MLflow, Model Deployment, CI/CD
+- 🐍 **Python Ecosystem**: Pandas, NumPy, Scikit-learn, Jupyter, Data Engineering, API Development
+- 📊 **Data Science & Analytics**: Statistical Analysis, Predictive Modeling, Business Intelligence, Power BI
+- ☁️ **Cloud & DevOps**: AWS EC2, GCP Cloud Run, Containerization, Microservices Architecture
+- 🌐 **Full-Stack Development**: React, Angular, Django, Node.js, TypeScript, RESTful APIs
+- 🏆 **Certified in**: Google Business Intelligence | Meta Front-End | Python | AI/ML | C#/.NET | JavaScript
+- 💼 **Professional Experience**: ML system development, web applications, inventory optimization, logistics analytics
+- 🎓 **Education**: Computer Science, Business Intelligence, Continuous AI/ML learning
 
 ---
 
@@ -31,35 +32,43 @@
 
 <div align="center">
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
-### Backend Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
 ### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### MLOps & Production
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Full-Stack Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+### Data & Analytics
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -78,12 +87,44 @@
 
 ---
 
+## 🤖 AI/ML Expertise & Achievements
+
+<div align="center">
+
+### 🏆 Key AI/ML Accomplishments
+
+| Project Type | Achievement | Impact |
+|--------------|-------------|---------|
+| **MLOps Pipeline** | Real-time stock prediction system | Automated data ingestion, model training, and deployment |
+| **LLM Fine-tuning** | Domain-specific GPT-2 chatbot | Production-ready financial Q&A with 94% training improvement |
+| **Multi-Agent AI** | CrewAI interview coaching system | Intelligent interview preparation with real-time feedback |
+| **Time Series Forecasting** | LSTM & Prophet models | Predictive analytics for financial markets |
+| **Cloud Deployment** | AWS/GCP production systems | Scalable ML services with containerization |
+
+### 🔬 Technical Specializations
+
+```
+🧠 Machine Learning          ████████████████████████████████████████ 95%
+🔧 MLOps & Production        ████████████████████████████████████████ 90%
+🐍 Python Ecosystem          ████████████████████████████████████████ 95%
+📊 Data Science & Analytics  ████████████████████████████████████████ 88%
+☁️ Cloud & DevOps           ████████████████████████████████████████ 85%
+🤖 NLP & Transformers       ████████████████████████████████████████ 82%
+```
+
+</div>
+
+---
+
 ## 🎓 Professional Background
 
 ### 💼 Professional Experience
-- **Web Development Specialist** - Creating and maintaining HTML-based webpages with custom owner-provided content
-- **Inventory & Logistics Management** - Warehouse inventory control, shipping and receiving operations
-- **Construction Materials Coordination** - Managing construction-related materials and supply chain operations
+- **AI/ML Engineer** - Developing production-ready machine learning systems and intelligent applications
+- **Data Science Specialist** - Building predictive models, analytics pipelines, and business intelligence solutions
+- **MLOps Engineer** - Implementing automated ML workflows, model deployment, and monitoring systems
+- **Full-Stack Developer** - Creating web applications with AI integration and data-driven features
+- **Business Intelligence Analyst** - Transforming complex data into actionable insights and strategic recommendations
+- **Systems Optimization Specialist** - Inventory management, logistics analytics, and process automation
 
 ### 🎓 Education & Certifications
 
@@ -100,58 +141,112 @@
 </div>
 
 ### 🏆 Professional Certifications
-- **A+ Certification** - Hardware & Software Troubleshooting
-- **Meta Front-End Developer** - Modern Web Development
-- **Python Development** - Programming & Automation
+- **Google Business Intelligence** - Data Analytics & Visualization (2024-2025)
 - **AI/ML Specialist** - Machine Learning & Data Science
+- **Python Development** - Programming & Automation
+- **Meta Front-End Developer** - Modern Web Development
+- **Business Intelligence Analysis** - Zero To Mastery Academy (2024)
 - **C#/.NET Developer** - Enterprise Application Development
 - **JavaScript Expert** - Full-Stack Web Development
-- **Google Business Intelligence** - Data Analytics & Visualization
+- **A+ Certification** - Hardware & Software Troubleshooting
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured AI/ML Projects
 
-### 🤖 AI & Machine Learning
+### 🚀 Production-Ready ML Systems
 
 <table>
 <tr>
 <td width="50%">
 
-**🎯 [Interactive AI Interview Coach](https://github.com/MSMITH71910/Interative_Interview_Coach)**
-- Intelligent interview coaching system with CrewAI
-- Real-time mock interviews with live grading
-- Comprehensive feedback for UX/UI positions
-- **Tech**: Python, CrewAI, OpenAI
+**📈 [Real-Time Stock Predictor with MLOps](https://github.com/MSMITH71910/Real-Time-Stock_Predictor-MLOps)**
+- End-to-end MLOps pipeline for stock prediction
+- LSTM & Prophet models with automated retraining
+- Apache Airflow orchestration & MLflow tracking
+- Interactive dashboards with Streamlit & Dash
+- **Tech**: PyTorch, FastAPI, Docker, AWS, Airflow
 
 </td>
 <td width="50%">
 
-**💰 [AI-Driven Financial Chatbot](https://github.com/MSMITH71910/AI-Driven-Financial-Chatbot)**
-- NLP-powered financial assistant
-- Advanced natural language processing
-- Financial advice and analysis
-- **Tech**: Python, NLP, Machine Learning
+**🤖 [Fine-Tuned LLM Chatbot](https://github.com/MSMITH71910/Fine-Tuned-LLM-Chatbot)**
+- Production-ready financial Q&A chatbot
+- Fine-tuned GPT-2 on domain-specific data
+- FastAPI backend with Gradio frontend
+- Docker containerization & cloud deployment
+- **Tech**: Transformers, FastAPI, Gradio, Docker, GCP
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**📈 [GenAI Stock Analysis](https://github.com/MSMITH71910/GenAI-Stock-Analysis)**
-- Predictive market modeling system
-- AI-powered stock analysis
-- Data visualization and insights
-- **Tech**: Python, Jupyter, AI/ML
+**🎯 [Interactive AI Interview Coach](https://github.com/MSMITH71910/Interative_Interview_Coach)**
+- Multi-agent AI system with CrewAI
+- Real-time interview coaching with live grading
+- Specialized for UX/UI, Frontend, Full-Stack roles
+- Comprehensive performance analytics
+- **Tech**: CrewAI, OpenAI GPT-4, Python
 
 </td>
 <td width="50%">
 
 **📄 [AI Resume Builder](https://github.com/MSMITH71910/AI-Resume-Builder)**
-- AI-powered resume tailoring tool
-- Job description matching
-- Intelligent suggestions system
-- **Tech**: Python, AI/ML
+- AI-powered resume optimization system
+- Job description matching algorithms
+- Intelligent content suggestions
+- Automated formatting and tailoring
+- **Tech**: Python, NLP, Machine Learning
+
+</td>
+</tr>
+</table>
+
+### 📊 Data Science & Analytics
+
+<table>
+<tr>
+<td width="50%">
+
+**📈 [GenAI Stock Analysis](https://github.com/MSMITH71910/GenAI-Stock-Analysis)**
+- Advanced financial market analysis
+- Predictive modeling with time series
+- Interactive Jupyter notebooks
+- Statistical analysis and visualization
+- **Tech**: Python, Pandas, Jupyter, Matplotlib
+
+</td>
+<td width="50%">
+
+**💰 [AI-Driven Financial Chatbot](https://github.com/MSMITH71910/AI-Driven-Financial-Chatbot)**
+- NLP-powered financial assistant
+- Natural language understanding
+- Financial advice and analysis
+- Conversational AI interface
+- **Tech**: Python, NLP, Transformers
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**📊 [Business Intelligence Portfolio](https://github.com/MSMITH71910/Business-Intelligence-Analyst)**
+- Comprehensive BI analysis projects
+- Data visualization and reporting
+- Statistical modeling and insights
+- Google BI certification projects
+- **Tech**: Python, Power BI, SQL, Excel
+
+</td>
+<td width="50%">
+
+**📈 [Excel Retirement Planner](https://github.com/MSMITH71910/Excel-Retirement-Planner)**
+- Advanced financial planning tool
+- Monte Carlo simulations
+- Risk analysis and projections
+- Interactive dashboard design
+- **Tech**: Excel, VBA, Financial Modeling
 
 </td>
 </tr>
@@ -291,52 +386,54 @@
 ```mermaid
 mindmap
   root((Michael Smith))
-    Full-Stack Expertise
-      Frontend Development
-      Backend Architecture
+    AI/ML Engineering
+      Production ML Systems
+      Model Fine-tuning
+      MLOps Pipelines
+      Time Series Forecasting
+    Data Science
+      Statistical Analysis
+      Predictive Modeling
+      Business Intelligence
+      Data Visualization
+    Cloud & DevOps
+      Docker Containerization
+      AWS/GCP Deployment
+      CI/CD Pipelines
+      Microservices Architecture
+    Full-Stack Development
+      Python APIs
+      React/Angular UIs
       Database Design
-    AI Integration
-      Machine Learning
-      Natural Language Processing
-      Intelligent Automation
-    Business Intelligence
-      Google BI Certified
-      Data Analysis
-      Visualization
+      System Integration
+    Professional Impact
+      Financial Analytics
+      Inventory Optimization
+      Process Automation
       Strategic Insights
-    Creative Development
-      Game Development
-      3D Graphics
-      Interactive Experiences
-      Artistic Foundation
-    Professional Experience
-      Web Development
-      Inventory Management
-      Logistics Operations
-      Construction Industry
 ```
 
 </div>
 
 ### 🎯 Core Strengths
-- **🔧 Full-Stack Mastery**: From pixel-perfect UIs to robust backend systems
-- **🤖 AI Integration**: Bringing intelligence to web applications
-- **📊 Data-Driven**: Turning data into actionable business insights with Google BI expertise
-- **🎨 Creative Problem Solving**: Unique solutions combining technical skills with artistic foundation
-- **🚀 Performance Optimization**: Building fast, scalable applications
-- **🤝 Collaborative Leadership**: Team-oriented development approach
-- **📦 Operations Excellence**: Real-world experience in inventory management and logistics
-- **🏗️ Industry Knowledge**: Construction materials and supply chain expertise
+- **🤖 AI/ML Engineering**: End-to-end machine learning systems from research to production
+- **🔧 MLOps Excellence**: Automated pipelines, model versioning, and continuous deployment
+- **📊 Data Science Mastery**: Statistical analysis, predictive modeling, and business intelligence
+- **☁️ Cloud Architecture**: Scalable deployments on AWS/GCP with containerization
+- **🐍 Python Ecosystem**: Deep expertise in ML libraries, APIs, and data processing
+- **🚀 Production Systems**: Building robust, scalable applications that handle real-world data
+- **📈 Business Impact**: Translating complex data into actionable insights and automated solutions
+- **🔄 Continuous Learning**: Staying current with latest AI/ML trends and technologies
 
 ---
 
 ## 📈 Current Focus
 
-- 🔭 Working on advanced AI/ML projects with CrewAI and OpenAI
-- 🌱 Exploring cutting-edge web technologies and frameworks
-- 👯 Looking to collaborate on innovative full-stack applications
-- 💬 Ask me about React, Python, AI/ML, or game development
-- ⚡ Fun fact: I love blending creativity with code - from 3D graphics to AI!
+- 🔭 Building production-ready MLOps pipelines with real-time model serving and monitoring
+- 🌱 Exploring transformer architectures, fine-tuning techniques, and multi-agent AI systems
+- 👯 Looking to collaborate on innovative AI/ML projects and intelligent applications
+- 💬 Ask me about PyTorch, MLOps, time series forecasting, or LLM fine-tuning
+- ⚡ Fun fact: I love turning complex data challenges into elegant, automated solutions!
 
 ---
 
@@ -354,6 +451,14 @@ mindmap
 ---
 
 <div align="center">
+
+### 💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs
+
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+
+![Snake animation](https://github.com/MSMITH71910/MSMITH71910/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ### 💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
