@@ -205,52 +205,7 @@
 
 ### 📊 Data Science & Analytics
 
-<table>
-<tr>
-<td width="50%">
-
-**📈 [GenAI Stock Analysis](https://github.com/MSMITH71910/GenAI-Stock-Analysis)**
-- Advanced financial market analysis
-- Predictive modeling with time series
-- Interactive Jupyter notebooks
-- Statistical analysis and visualization
-- **Tech**: Python, Pandas, Jupyter, Matplotlib
-
-</td>
-<td width="50%">
-
-**💰 [AI-Driven Financial Chatbot](https://github.com/MSMITH71910/AI-Driven-Financial-Chatbot)**
-- NLP-powered financial assistant
-- Natural language understanding
-- Financial advice and analysis
-- Conversational AI interface
-- **Tech**: Python, NLP, Transformers
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**📊 [Business Intelligence Portfolio](https://github.com/MSMITH71910/Business-Intelligence-Analyst)**
-- Comprehensive BI analysis projects
-- Data visualization and reporting
-- Statistical modeling and insights
-- Google BI certification projects
-- **Tech**: Python, Power BI, SQL, Excel
-
-</td>
-<td width="50%">
-
-**📈 [Excel Retirement Planner](https://github.com/MSMITH71910/Excel-Retirement-Planner)**
-- Advanced financial planning tool
-- Monte Carlo simulations
-- Risk analysis and projections
-- Interactive dashboard design
-- **Tech**: Excel, VBA, Financial Modeling
-
-</td>
-</tr>
-</table>
+<table> <tr> <td width="50%"> <strong>📈 <a href="https://github.com/MSMITH71910/GenAI-Stock-Analysis">GenAI Stock Analysis</a></strong><br> • Advanced financial market analysis<br> • Predictive modeling with time series<br> • Interactive Jupyter notebooks<br> • Statistical analysis and visualization<br> <strong>Tech</strong>: Python, Pandas, Jupyter, Matplotlib </td> <td width="50%"> <strong>📊 <a href="https://github.com/MSMITH71910/Conjoint-Analysis-Netflix">Netflix Conjoint Analysis</a></strong><br> • Comprehensive conjoint analysis using 3,000 survey responses<br> • Statistical modeling (OLS + Logistic regression)<br> • Strategic business insights for Netflix<br> • 12-panel dashboard with recommendations<br> • Production-ready code with documentation<br> <strong>Tech</strong>: Python, Statsmodels, Pandas, Matplotlib, Seaborn </td> </tr> <tr> <td width="50%"> <strong>💰 <a href="https://github.com/MSMITH71910/AI-Driven-Financial-Chatbot">AI Financial Chatbot</a></strong><br> • NLP-powered financial assistant<br> • Natural language understanding<br> • Financial advice and analysis<br> • Conversational AI interface<br> <strong>Tech</strong>: Python, NLP, Transformers </td> <td width="50%"> <strong>📊 <a href="https://github.com/MSMITH71910/Business-Intelligence-Analyst">BI Portfolio</a></strong><br> • Comprehensive BI analysis projects<br> • Data visualization and reporting<br> • Statistical modeling and insights<br> • Google BI certification projects<br> <strong>Tech</strong>: Python, Power BI, SQL, Excel </td> </tr> <tr> <td width="50%"> <strong>📈 <a href="https://github.com/MSMITH71910/Excel-Retirement-Planner">Excel Retirement Planner</a></strong><br> • Advanced financial planning tool<br> • Monte Carlo simulations<br> • Risk analysis and projections<br> • Interactive dashboard design<br> <strong>Tech</strong>: Excel, VBA, Financial Modeling </td> <td width="50%"> <!-- Empty cell for balance --> </td> </tr> </table>
 
 ### 🎨 Web Development
 
