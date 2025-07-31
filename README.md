@@ -415,10 +415,4 @@ mindmap
 
 </div>
 
-### 💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
-
-![Snake animation](https://github.com/MSMITH71910/MSMITH71910/blob/output/github-contribution-grid-snake.svg)
-
-</div>
