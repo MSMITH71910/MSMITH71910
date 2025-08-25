@@ -434,8 +434,6 @@ Statistical Analysis ████████████████ 88%
 
 <div align="center">
 
-### 💡 "Innovation distinguishes between a leader and a follower." - Steve Jobs
-
 *Thank you for visiting my profile! Let's create the future together!* ⭐
 
 </div>
