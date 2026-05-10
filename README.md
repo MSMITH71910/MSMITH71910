@@ -56,12 +56,14 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|-------------|
-| [📈 Real-Time Stock Predictor](https://github.com/MSMITH71910/Real-Time-Stock_Predictor-MLOps) | MLOps pipeline with automated retraining | PyTorch, Airflow, Docker |
-| [🤖 Fine-Tuned LLM Chatbot](https://github.com/MSMITH71910/Fine-Tuned-LLM-Chatbot) | Financial Q&A chatbot | Transformers, FastAPI, GCP |
-| [🎯 AI Interview Coach](https://github.com/MSMITH71910/Interative_Interview_Coach) | Multi-agent coaching system | CrewAI, OpenAI GPT-4 |
+| [📊 Data Analyst Portfolio – Concrete Mix & Field Analytics](https://github.com/MSMITH71910/data-analyst-portfolio) | Excel dashboard comparing concrete mix performance (10.4% higher strength, 5.2% cost savings) + Bigfoot sighting analysis and budget tracker. Directly applies data analysis to construction materials and operational decisions. | Excel, Google Sheets, KPIs, pivot tables, conditional formatting, slicers |
+| [🏗️ ConstructPro Manager – GC Suite](https://github.com/MSMITH71910/constructpro_manager) | All‑in‑one construction management platform: ERP (AP/AR, payroll), takeoff & estimating, field time clock, blueprints, legal contracts, real‑time team collaboration. Built for contractors by a former construction tech. | JavaScript (ES6+), HTML5, CSS3, Bootstrap 5, Node.js/Deno, JSON persistence |
+| [📈 Real-Time Stock Predictor](https://github.com/MSMITH71910/Real-Time-Stock_Predictor-MLOps) | MLOps pipeline with automated retraining – data pipeline thinking applied to financial time series | PyTorch, Airflow, Docker |
+| [🤖 Fine-Tuned LLM Chatbot](https://github.com/MSMITH71910/Fine-Tuned-LLM-Chatbot) | Financial Q&A chatbot – data extraction from 10‑K/10‑Q reports | Transformers, FastAPI, GCP |
+| [🎯 AI Interview Coach](https://github.com/MSMITH71910/Interative_Interview_Coach) | Multi‑agent coaching system | CrewAI, OpenAI GPT‑4 |
 | [📊 BI Portfolio](https://github.com/MSMITH71910/Business-Intelligence-Analyst) | Dashboards & analytics | Power BI, SQL, Excel |
-| [🛍️ Crwn Clothing](https://github.com/MSMITH71910/crwn-clothing) | E-commerce frontend | React, Firebase, SCSS |
-| [🎮 Clips Gaming Platform](https://github.com/MSMITH71910/Clips_Angular_Gamer_site) | Streaming-style platform | Angular, TypeScript |
+| [🛍️ Crwn Clothing](https://github.com/MSMITH71910/crwn-clothing) | E‑commerce frontend | React, Firebase, SCSS |
+| [🎮 Clips Gaming Platform](https://github.com/MSMITH71910/Clips_Angular_Gamer_site) | Streaming‑style platform | Angular, TypeScript |
 
 ---
 
