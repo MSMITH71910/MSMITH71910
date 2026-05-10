@@ -3,7 +3,7 @@
 # 👨‍💻 Michael R. Smith
 ### IT Support | Data Analyst | AI/ML Enthusiast | Construction Tech
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=IT+Support+%7C+Data+ Analyst+Dev;AI+%2F+ML+Enthusiast;Python+Specialist;Construction+Tech;12%2B+Certifications+Completed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=IT+Support+%7C+Data+Analyst+Dev;AI+%2F+ML+Enthusiast;Python+Specialist;Construction+Tech;12%2B+Certifications+Completed)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/MSMITH71910?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/MSMITH71910) [![GitHub stars](https://img.shields.io/github/stars/MSMITH71910?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/MSMITH71910) [![Profile views](https://komarev.com/ghpvc/?username=MSMITH71910&label=Profile%20views&color=0891b2&style=for-the-badge)](https://github.com/MSMITH71910)
 
