@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Michael R. Smith
-### IT Support | Full-Stack Developer | AI/ML Enthusiast | Former Construction Tech
+### IT Support | Data Analyst | AI/ML Enthusiast | Construction Tech
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=IT+Support+%7C+Full-Stack+Dev;AI+%2F+ML+Enthusiast;Python+Specialist;Business+Intelligence+Analyst;12%2B+Certifications+Completed)](https://git.io/typing-svg)
 
@@ -13,7 +13,7 @@
 
 ## 🎯 **About Me**
 
-> I'm a **versatile technologist** based near Philadelphia, PA, bridging the gap between hands-on fieldwork (construction, utility locating, device repair) and modern software development. I've recently completed **12+ professional certifications** in AI/ML, full-stack development, business intelligence, and IT support. I'm actively seeking **remote roles** in IT support, business intelligence, or junior full-stack development — especially within construction tech.
+> I'm a **versatile technologist** based near Philadelphia, PA, bridging the gap between hands-on fieldwork (construction, utility locating, device repair) and modern software development. I've recently completed **12+ professional certifications** in AI/ML, Data Analyst, business intelligence, and IT support. I'm actively seeking **remote roles** in IT support, Data Analyst, business intelligence, or junior full-stack development — especially within construction tech.
 
 ---
 
