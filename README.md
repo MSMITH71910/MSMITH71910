@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👨‍💻 Michael R. Smith
-### IT Support | Data Analyst | AI/ML Enthusiast | Construction Tech
+### Python & Django Full-Stack Developer | IT Support | CompTIA A+ Certified
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=IT+Support+%7C+Data+Analyst;AI+%2F+ML+Enthusiast;Python+Specialist;Construction+Tech;12%2B+Certifications+Completed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Python+%26+Django+Full-Stack+Dev;IT+Support+%7C+CompTIA+A%2B+Certified;AI+%2F+ML+Enthusiast;Construction+Tech;12%2B+Certifications+Completed)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/MSMITH71910?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/MSMITH71910) [![GitHub stars](https://img.shields.io/github/stars/MSMITH71910?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/MSMITH71910) [![Profile views](https://komarev.com/ghpvc/?username=MSMITH71910&label=Profile%20views&color=0891b2&style=for-the-badge)](https://github.com/MSMITH71910)
 
@@ -13,38 +13,62 @@
 
 ## 🎯 **About Me**
 
-> I'm a **versatile technologist** based near Philadelphia, PA, bridging the gap between hands-on fieldwork (construction, utility locating, device repair) and modern software development. I've recently completed **12+ professional certifications** in AI/ML, Data Analyst, business intelligence, and IT support. I'm actively seeking **remote roles** in IT support, Data Analyst, business intelligence, or junior full-stack development — especially within construction tech.
+> I'm a **Python & Django full-stack developer** and **CompTIA A+ certified IT support professional** based near Philadelphia, PA. I bridge the gap between hands-on fieldwork (construction, utility locating, device repair) and modern software development. I've completed **12+ professional certifications** across AI/ML, data analytics, business intelligence, and IT support — and I'm actively expanding my skillset every day. I'm seeking **remote roles** in IT support or Python/Django development, especially within construction tech.
 
 ---
 
-## 🛠️ **Core Skills (Based on Real Experience & Certifications)**
+## 🛠️ **Core Skills**
 
-### 💻 **IT & Support**
-- CompTIA A+ Certified
-- Break/fix repair (Apple, Samsung, Google)
-- Computer forensics (8 years)
-- Remote troubleshooting
-- System administration (Windows/Linux basics)
+---
 
-### 🐍 **Python & AI/ML**
-- Python (pandas, NumPy, scikit-learn basics)
-- TensorFlow / PyTorch (intro to intermediate)
+### ✅ 🐍 **Python & Django — Full-Stack Development** *(Primary Strength)*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+- **Python** — core language, data structures, OOP, scripting
+- **Django** — models, views, templates, REST APIs, authentication
+- **Full-stack** — backend logic with Django + frontend integration
+- pandas, NumPy, scikit-learn (applied in ML/data projects)
 - NLP & LLM fine-tuning (project-based)
 - BCG GenAI simulation (financial chatbot)
 
-### 🌐 **Full-Stack Development**
-- React, Angular, TypeScript
-- Node.js, Django, Golang (basics)
-- C# / .NET / Blazor (bootcamp completed)
+---
+
+### ✅ 💻 **IT Support — CompTIA A+ Certified** *(Primary Strength)*
+
+![CompTIA A+](https://img.shields.io/badge/CompTIA_A%2B-Certified-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+
+- **CompTIA A+ Certification** — verified, completed
+- Break/fix device repair (Apple, Samsung, Google)
+- Computer forensics (8 years of hands-on experience)
+- Remote troubleshooting & help desk support
+- System administration (Windows / Linux basics)
+
+---
+
+### 🔄 **Currently Expanding** *(Learning in Progress)*
+
+> These are areas I have exposure to and am actively developing — I know them but am still deepening my skills.
+
+#### 🌐 Other Full-Stack & Frontend
+- React, Angular, TypeScript *(bootcamp + project experience)*
+- Node.js, Golang *(basics)*
+- C# / .NET / Blazor *(bootcamp completed)*
 - Meta Front-End Developer Certified
 
-### 📊 **Business Intelligence**
-- Google Business Intelligence (in progress)
-- Excel / VBA macros (Goldman Sachs simulation)
-- Data pipelines & anonymization (CommBank simulation)
-- Power BI / Tableau basics
+#### 📊 Business Intelligence & Data
+- Google Business Intelligence *(in progress — Google/Coursera)*
+- Excel / VBA macros *(Goldman Sachs simulation)*
+- Data pipelines & anonymization *(CommBank simulation)*
+- Power BI / Tableau *(basics)*
 
-### 🏗️ **Field & Construction Experience**
+#### 🤖 AI / ML
+- TensorFlow / PyTorch *(intro to intermediate)*
+- MLOps pipelines *(learning)*
+- Kubernetes & container orchestration *(learning)*
+- Production-grade LLM fine-tuning *(learning)*
+
+#### 🏗️ Field & Construction Experience
 - Utility locating (USIC)
 - Demolition & general labor
 - On-site problem solving
@@ -71,17 +95,17 @@
 
 | Domain | Certification | Issuer |
 |--------|---------------|--------|
-| 🤖 AI/ML | Complete Machine Learning & Data Science | Zero To Mastery |
-| 🐍 Python | Complete Python Developer | Zero To Mastery |
-| 🌐 Frontend | Meta Front-End Developer Professional Certificate | Meta/Coursera |
-| 🔧 .NET | C#/.NET Full-Stack Bootcamp (ASP.NET Core & Blazor) | Bootcamp |
-| ☁️ DevOps | DevOps Bootcamp - Linux SysAdmin | Zero To Mastery |
-| 📊 BI | Google Business Intelligence (in progress) | Google/Coursera |
-| 🔧 IT Support | CompTIA A+ Certification | CompTIA |
-| 🎨 3D | 3D Modeling with Blender from Scratch | Online |
-| 🧠 AI Simulation | BCG GenAI Job Simulation (Forage) | Forage |
-| 📊 Data Simulation | Commonwealth Bank Data Science (Forage) | Forage |
-| 📈 Excel Simulation | Goldman Sachs Excel Skills (Forage) | Forage |
+| ✅ 🔧 **IT Support** | **CompTIA A+ Certification** | **CompTIA** |
+| ✅ 🐍 **Python** | **Complete Python Developer** | **Zero To Mastery** |
+| ✅ 🤖 AI/ML | Complete Machine Learning & Data Science | Zero To Mastery |
+| ✅ 🌐 Frontend | Meta Front-End Developer Professional Certificate | Meta/Coursera |
+| ✅ 🔧 .NET | C#/.NET Full-Stack Bootcamp (ASP.NET Core & Blazor) | Bootcamp |
+| ✅ ☁️ DevOps | DevOps Bootcamp - Linux SysAdmin | Zero To Mastery |
+| 🔄 📊 BI | Google Business Intelligence *(in progress)* | Google/Coursera |
+| ✅ 🎨 3D | 3D Modeling with Blender from Scratch | Online |
+| ✅ 🧠 AI Simulation | BCG GenAI Job Simulation (Forage) | Forage |
+| ✅ 📊 Data Simulation | Commonwealth Bank Data Science (Forage) | Forage |
+| ✅ 📈 Excel Simulation | Goldman Sachs Excel Skills (Forage) | Forage |
 
 ---
 
@@ -99,18 +123,19 @@
 
 ## 💼 **What I'm Looking For**
 
-### ✅ **Remote roles where I can leverage my unique blend:**
+### ✅ **Remote roles where I can leverage my strengths:**
 
-- 🖥️ **IT Support / Help Desk** (CompTIA A+ certified, break/fix experience)
-- 📊 **Business Intelligence Analyst** (Excel, VBA, data pipelines, dashboards)
-- 🔧 **Junior Full-Stack Developer** (React, Django, Node.js)
-- 🏗️ **Construction Tech Support** (field experience + IT skills)
-- 🤖 **Junior AI/ML Support or Data Analyst** (Python, simulations, portfolio projects)
+- 🐍 **Python / Django Full-Stack Developer** *(primary focus)*
+- 🖥️ **IT Support / Help Desk** *(CompTIA A+ certified, 8 years forensics, break/fix)*
+- 📊 **Business Intelligence Analyst** *(Excel, VBA, data pipelines, dashboards)*
+- 🏗️ **Construction Tech Support** *(field experience + IT skills)*
+- 🤖 **Junior AI/ML Support or Data Analyst** *(Python, simulations, portfolio projects)*
 
 ---
 
 ## 🔭 **Currently Learning**
 
+- Advanced Django REST framework & API design
 - Advanced MLOps pipelines
 - Kubernetes & container orchestration
 - Production-grade LLM fine-tuning
@@ -124,7 +149,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Smith-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-smith-2b38b260) [![GitHub](https://img.shields.io/badge/GitHub-MSMITH71910-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSMITH71910) [![Email](https://img.shields.io/badge/Email-M.Smith71910@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:M.Smith71910@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://ms71910.itch.io/)
 
-### 🚀 *Open to remote opportunities in IT support, business intelligence, junior dev roles, or construction tech!*
+### 🚀 *Open to remote opportunities in Python/Django development, IT support, business intelligence, or construction tech!*
 
 [![Snake animation](https://github.com/MSMITH71910/MSMITH71910/raw/output/github-contribution-grid-snake.svg)](https://github.com/MSMITH71910/MSMITH71910/blob/output/github-contribution-grid-snake.svg)
 
