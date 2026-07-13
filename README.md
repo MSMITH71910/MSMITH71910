@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👨‍💻 Michael R. Smith
-### Python & Django Full-Stack Developer | CompTIA A+ Certified IT Professional
+### Python & Django Full-Stack Developer | QA Engineer | CompTIA A+ Certified IT Professional
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Python+%26+Django+Full-Stack+Developer;Building+Real+Apps+with+Live+Demos;CompTIA+A%2B+Certified+%7C+IT+Support;AI+%2F+ML+%7C+12%2B+Certifications;Back+in+the+Game+%E2%80%94+Ready+to+Contribute)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Python+%26+Django+Full-Stack+Developer;QA+Engineer+%7C+Playwright+%2B+TypeScript;Building+Real+Apps+with+Live+Demos;CompTIA+A%2B+Certified+%7C+IT+Support;AI+%2F+ML+%7C+12%2B+Certifications;Automator.+Collaborator.+Explorer.)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/MSMITH71910?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/MSMITH71910)
 [![GitHub stars](https://img.shields.io/github/stars/MSMITH71910?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/MSMITH71910)
@@ -97,6 +97,92 @@ I'm now actively seeking **remote developer or IT roles** where I can contribute
 
 - Multiple agents handle different coaching roles (question generator, evaluator, feedback)
 - **Tech:** Python, CrewAI, OpenAI GPT-4
+
+---
+
+## 🧪 QA Engineering Portfolio
+
+> Three production-grade QA projects proving I can **automate, collaborate, and explore** — the three hats every great QA engineer wears.
+
+[![QA Portfolio](https://img.shields.io/badge/QA_Portfolio-Live_Site-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://msmith71910.github.io/qa-portfolio)
+
+---
+
+### 🐛 Project 1 — Bug Hunter (Playwright + TypeScript)
+**A hybrid E2E automation framework that tests beyond the happy path.**
+
+[![Repo](https://img.shields.io/badge/GitHub-qa--bug--hunter-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSMITH71910/qa-bug-hunter)
+[![CI](https://github.com/MSMITH71910/qa-bug-hunter/actions/workflows/playwright.yml/badge.svg)](https://github.com/MSMITH71910/qa-bug-hunter/actions/workflows/playwright.yml)
+
+**What it tests:** SauceDemo — a real e-commerce demo app — across 5 test suites:
+
+**Step 1 — Happy Path (8 tests):** Validates the complete user journey: login → browse → add to cart → checkout → order confirmation. Covers locked-out users, sort order accuracy, cart remove, product detail, and logout.
+
+**Step 2 — Network Throttle:** Uses Chrome DevTools Protocol to simulate **Slow 3G (500ms RTT, 400kbps)**. Verifies login, image rendering, cart persistence, and checkout form submission all work under real mobile conditions — not just fast broadband.
+
+**Step 3 — API Response Mocking:** Intercepts outbound requests with `page.route()` to inject faults — 500 errors, empty product arrays, 3-second delays, blocked images. Verifies the UI handles each gracefully instead of freezing or showing raw error objects.
+
+**Step 4 — Visual Regression:** Takes pixel-perfect screenshots of 6 key UI states (products page, cart badge, checkout form, error message, order confirmation) and asserts against committed baselines. Any CSS pixel drift beyond 2% fails the test.
+
+**Step 5 — Race Condition Detection:** Spawns **4 concurrent browser sessions** and performs simultaneous operations to surface non-deterministic concurrency bugs. **Found real bug BH-RC-001:** Cart badge desync at 40% reproducibility under 4-user parallel load.
+
+**Single command CI:**
+```bash
+npm run test:ci   # Runs all tests headlessly, generates HTML report
+```
+
+- **Tech:** Playwright 1.44, TypeScript 5.4, GitHub Actions (4-shard parallel)
+- **Artifacts:** HTML report + screenshots + video on failure
+
+---
+
+### 🔄 Project 2 — Shift-Left (Pact.js + GitHub Actions)
+**Consumer-Driven Contract Testing that catches breaking API changes before they reach staging.**
+
+[![Repo](https://img.shields.io/badge/GitHub-qa--shift--left-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSMITH71910/qa-shift-left)
+[![CI](https://github.com/MSMITH71910/qa-shift-left/actions/workflows/ci.yml/badge.svg)](https://github.com/MSMITH71910/qa-shift-left/actions/workflows/ci.yml)
+
+**The problem this solves:** Backend renames a field. Frontend breaks. No one knows until a user complains. With contract testing, this is caught in 2 minutes on the PR — before it merges.
+
+**Step 1 — Consumer Contract Tests (9 tests):** The frontend consumer (`FrontendConsumer`) defines what it *expects* from `JsonPlaceholderAPI` — the exact shape of Posts, Users, and Comments responses. These specs generate a **Pact contract file** (JSON) that becomes the source of truth.
+
+**Step 2 — Breaking Change Detection (CT-U02):** One test explicitly asserts that the `email` field exists on the User object. If the backend renames it to `emailAddress`, this test fails in CI with the exact field name mismatch — not a cryptic runtime error in production.
+
+**Step 3 — Provider Verification:** The CI downloads the generated pact file and runs it against the live `jsonplaceholder.typicode.com` API. The provider must satisfy every consumer expectation or the build fails.
+
+**Step 4 — ESLint + Security Analysis:** Every PR runs `@typescript-eslint` rules (no `any` types, explicit return types) plus `eslint-plugin-security` (object injection detection, non-literal regex detection). Lint failures block the merge.
+
+**Step 5 — 80% Coverage Gate:** Jest enforces 80% line/branch/function/statement coverage on every push. The CI posts a coverage summary comment on every PR.
+
+**PR Template:** Every PR has a mandatory checkbox: *"Has the contract test been updated?"* — making quality everyone's responsibility.
+
+- **Tech:** Pact.js v12, TypeScript, Jest, ESLint, GitHub Actions (4-stage pipeline)
+- **Key artifact:** [`docs/BREAKING-CHANGE-DEMO.md`](https://github.com/MSMITH71910/qa-shift-left/blob/main/docs/BREAKING-CHANGE-DEMO.md) — full walkthrough of a CI-caught contract failure
+
+---
+
+### 🔭 Project 3 — Explorer (k6 + Lighthouse + axe-core)
+**Performance, security, and accessibility testing that prioritizes user experience under stress.**
+
+[![Repo](https://img.shields.io/badge/GitHub-qa--explorer-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSMITH71910/qa-explorer)
+[![CI](https://github.com/MSMITH71910/qa-explorer/actions/workflows/ci.yml/badge.svg)](https://github.com/MSMITH71910/qa-explorer/actions/workflows/ci.yml)
+
+**Step 1 — k6 Load Test (100 concurrent users):** Simulates the full shopping cart journey across 5 ramp stages from 0 → 100 → 0 users. 4 user journey groups tested simultaneously (browse, view product, add to cart, checkout). **5 threshold assertions** — p95 < 500ms, p99 < 1000ms, error rate < 5%, cart add p95 < 300ms, checkout p95 < 800ms. Custom `handleSummary()` outputs a JSON status report.
+
+**Step 2 — Stress Test (300 users):** Ramps to 300 concurrent users to find the breaking point. Answers: *"At what load does the system degrade?"*
+
+**Step 3 — axe-core Accessibility Audit (6 tests):** Programmatic WCAG 2.1 AA compliance scanning. **Found real violations:** Burger menu button has no accessible name (screen reader announces "button" — unusable for screen reader users). Color contrast failures on login form placeholder text (2.8:1 ratio; required: 4.5:1).
+
+**Step 4 — Lighthouse CI Audit:** 3 runs averaged across performance, accessibility, best practices, and SEO. Asserts minimum score thresholds. Flags missing security headers: **No Content-Security-Policy** (XSS surface), **No HSTS** (downgrade attack vector).
+
+**Step 5 — Exploratory Test Charter (90-minute manual session):** 3 edge cases no automation would ever find:
+- Emoji + SQL injection accepted in checkout form fields (no sanitization)
+- Back button mid-checkout desyncs form state silently (correction ignored)
+- **Empty cart → checkout success ($0 order confirmed, no guard)** ← HIGH severity
+
+**Deliverable:** [`reports/production-readiness-report.md`](https://github.com/MSMITH71910/qa-explorer/blob/main/reports/production-readiness-report.md) — Red/Yellow/Green status across Functionality ✅, Performance 🟡, Security 🟡, Accessibility 🔴 — with 2 blockers identified before production.
+
+- **Tech:** k6, axe-core, Lighthouse CI, Playwright, TypeScript, GitHub Actions
 
 ---
 
@@ -196,11 +282,11 @@ I'm now actively seeking **remote developer or IT roles** where I can contribute
 
 I'm actively seeking **remote roles** where I can contribute from day one:
 
-- 🐍 **Python / Django Full-Stack Developer** — my primary focus; I have live deployed apps to show
+- 🧪 **QA Engineer / SDET** — Playwright + TypeScript framework, contract testing, k6 load testing, WCAG accessibility — full QA portfolio at [msmith71910.github.io/qa-portfolio](https://msmith71910.github.io/qa-portfolio)
+- 🐍 **Python / Django Full-Stack Developer** — live deployed apps, REST APIs, ORM, full-stack deployment
 - 🖥️ **IT Support / Help Desk** — CompTIA A+ certified, 8 years forensics, real break/fix experience
 - 📊 **Business Intelligence / Data Analyst** — Excel, dashboards, data pipelines
 - 🤖 **Junior AI/ML Engineer or Data Scientist** — Python, PyTorch, NLP, project portfolio
-- 🏗️ **Construction Tech** — unique combination of field experience and software skills
 
 I work hard, learn fast, and I'm honest about where I am in my journey. If you need someone who will show up, ship working code, and keep growing — let's talk.
 
@@ -208,10 +294,10 @@ I work hard, learn fast, and I'm honest about where I am in my journey. If you n
 
 ## 🔭 Currently Working On
 
+- **QA Portfolio** — Expanding all 3 projects with additional test cases and CI integrations
 - Expanding the Django CV Generator with PDF export and user accounts
 - Completing Google Business Intelligence certification (Google/Coursera)
 - Advanced Django REST Framework and API design
-- MLOps pipelines with Kubernetes
 
 ---
 
@@ -223,8 +309,9 @@ I work hard, learn fast, and I'm honest about where I am in my journey. If you n
 [![GitHub](https://img.shields.io/badge/GitHub-MSMITH71910-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSMITH71910)
 [![Email](https://img.shields.io/badge/Email-M.Smith71910@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:M.Smith71910@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-SmithDevLabs-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://msmith71910.github.io/smithdevlabs_prosite/)
+[![QA Portfolio](https://img.shields.io/badge/QA_Portfolio-msmith71910.github.io-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://msmith71910.github.io/qa-portfolio)
 
-### 🚀 Open to remote opportunities — Python/Django, IT Support, AI/ML, or Business Intelligence
+### 🚀 Open to remote opportunities — QA Engineer, Python/Django, IT Support, AI/ML, or Business Intelligence
 
 [![Snake animation](https://github.com/MSMITH71910/MSMITH71910/raw/output/github-contribution-grid-snake.svg)](https://github.com/MSMITH71910/MSMITH71910/blob/output/github-contribution-grid-snake.svg)
 
