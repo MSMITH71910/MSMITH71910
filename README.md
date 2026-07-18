@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 Michael R. Smith
-### Python & Django Full-Stack Developer | AI Chatbot Developer | QA Engineer | CompTIA A+ Certified IT Professional
+### Python & Django Full-Stack Developer | Data Entry Specialist | AI Chatbot Developer | QA Engineer | CompTIA A+ Certified IT Professional
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Python+%26+Django+Full-Stack+Developer;QA+Engineer+%7C+Playwright+%2B+TypeScript;Building+Real+Apps+with+Live+Demos;CompTIA+A%2B+Certified+%7C+IT+Support;AI+%2F+ML+%7C+12%2B+Certifications;Automator.+Collaborator.+Explorer.)](https://git.io/typing-svg)
 
