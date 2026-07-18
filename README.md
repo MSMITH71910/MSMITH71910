@@ -192,6 +192,7 @@ npm run test:ci   # Runs all tests headlessly, generates HTML report
 |---------|-------------|------|-------|
 | [🏗️ ConstructPro Manager](https://github.com/MSMITH71910/constructpro_manager) | All-in-one construction management ERP: payroll, estimating, time clock, blueprints, contracts | [Live](https://constructpro-manager.vercel.app/) | JS, Bootstrap 5, Node.js |
 | [📊 Data Analyst Portfolio](https://github.com/MSMITH71910/data-analyst-portfolio) | Concrete mix performance dashboards + Bigfoot analysis — interactive KPIs, pivot tables | — | Excel, Google Sheets |
+| [📋 Data Entry Portfolio](https://github.com/MSMITH71910/data-entry-portfolio) | Data Entry Specialist portfolio — spreadsheet mastery, before-and-after data cleaning, case studies, and 99.9% accuracy | [Live](https://msmith71910.github.io/data-entry-portfolio/) | HTML, CSS |
 | [🏠 Real Estate Demo](https://github.com/MSMITH71910/real_estate_demo_site) | Full-featured real estate site with AI lead qualifier, showing scheduler & mortgage calculator | [Live](https://msmith71910.github.io/real_estate_demo_site/) | HTML, CSS, JS |
 | [🍽️ Restaurant Demo](https://github.com/MSMITH71910/Restaurant_Demo_site) | Bella Roma Italian Kitchen — AI chatbot, reservations, review automation | [Live](https://msmith71910.github.io/Restaurant_Demo_site/) | HTML, CSS, JS |
 | [💅 Salon & Spa Demo](https://github.com/MSMITH71910/Salon_Spa_Demo_SIte) | Luxe Beauty Studio with AI booking chatbot & retention automations | [Live](https://msmith71910.github.io/Salon_Spa_Demo_SIte/) | HTML, CSS, JS |
