@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👨‍💻 Michael R. Smith
-### Python & Django Full-Stack Developer | Data Entry Specialist | AI Chatbot Developer | QA Engineer | CompTIA A+ Certified IT Professional
+### Founder of Smith Development Labs | Full-Stack Developer | CompTIA A+ Certified | QA Engineer | AI Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Python+%26+Django+Full-Stack+Developer;QA+Engineer+%7C+Playwright+%2B+TypeScript;Building+Real+Apps+with+Live+Demos;CompTIA+A%2B+Certified+%7C+IT+Support;AI+%2F+ML+%7C+12%2B+Certifications;Automator.+Collaborator.+Explorer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&lines=Founder+%7C+Smith+Development+Labs;Affordable+Websites+for+Small+Businesses;Python+%26+Django+Full-Stack+Developer;QA+Engineer+%7C+Playwright+%2B+TypeScript;CompTIA+A%2B+Certified+%7C+IT+Support;AI+%2F+ML+%7C+12%2B+Certifications)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/MSMITH71910?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/MSMITH71910)
 [![GitHub stars](https://img.shields.io/github/stars/MSMITH71910?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0891b2)](https://github.com/MSMITH71910)
@@ -13,15 +13,47 @@
 
 ---
 
+## 🏢 Smith Development Labs — Affordable Website Design & Digital Agency
+
+> **Newtown Square's most-trusted website design & digital agency** — serving small businesses locally and nationwide.
+
+I'm the founder of **Smith Development Labs**, where we build high-quality, professional websites for small businesses at a fraction of what other agencies charge. Every project starts with a **FREE no-obligation demo** — you see your site before you pay us a dime.
+
+✔ **Save Time** — Stop struggling with DIY builders. Delegate to the pros.
+✔ **Save Money** — Affordable pricing, no surprise costs.
+✔ **Look Professional** — An outdated site is costing you clients right now.
+✔ **Grow Your Business** — SEO-optimized designs built to attract customers.
+
+🚀 **Site launching soon — currently accepting new clients.**
+
+📞 (484) 844-3448 &nbsp;|&nbsp; 📧 msmith@smithdevlabs.com &nbsp;|&nbsp; 📍 Newtown Square, PA
+
+[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-Smith_Dev_Labs-FF5722?style=for-the-badge&logo=google-calendar&logoColor=white)](https://resellermarketingsite.smithdevelopmentlabs.multisiteadmin.com/a/preview)
+
+---
+
 ## 🎯 About Me
 
-I'm a **Python & Django full-stack developer** and **CompTIA A+ certified IT professional** based near Philadelphia, PA.
+I'm a **full-stack developer**, **agency founder**, and **CompTIA A+ certified IT professional** based near Philadelphia, PA.
 
 Life pulled me away from development for a while — family came first, and I wouldn't trade that. But I never stopped learning. Over the past two years I've earned **12+ certifications** in Python, Django, AI/ML, data analytics, DevOps, and IT support — and I've been building real, deployed applications to prove the skills are there.
 
-I'm now actively seeking **remote developer or IT roles** where I can contribute from day one. I bring a mix of technical depth, hands-on problem-solving instincts, and field experience that most candidates don't have. Whether it's shipping clean Django code, supporting end users, or analyzing data — I'm ready to add value.
+I now run **Smith Development Labs** and am also actively seeking **remote developer or IT roles** where I can contribute from day one. I bring technical depth, hands-on problem-solving instincts, and field experience that most candidates don't have.
 
 > **"I stepped away. I came back stronger. Let's build something together."**
+
+---
+
+## 🌐 Smith Development Labs — Client Demo Portfolio
+
+> The following sites are professional demos built for Smith Development Labs clients — showcasing the quality of work we deliver.
+
+| Project | Description | Live |
+|---------|-------------|------|
+| [🏠 Real Estate Demo](https://github.com/MSMITH71910/real_estate_demo_site) | Full-featured real estate site with AI lead qualifier, showing scheduler & mortgage calculator | [Live Demo](https://msmith71910.github.io/real_estate_demo_site/) |
+| [🍽️ Restaurant Demo](https://github.com/MSMITH71910/Restaurant_Demo_site) | Bella Roma Italian Kitchen — AI chatbot, reservations, review automation | [Live Demo](https://msmith71910.github.io/Restaurant_Demo_site/) |
+| [💅 Salon & Spa Demo](https://github.com/MSMITH71910/Salon_Spa_Demo_SIte) | Luxe Beauty Studio with AI booking chatbot & retention automations | [Live Demo](https://msmith71910.github.io/Salon_Spa_Demo_SIte/) |
+| [🏗️ ConstructPro Manager](https://github.com/MSMITH71910/constructpro_manager) | All-in-one construction management ERP: payroll, estimating, time clock, blueprints, contracts | [Live Demo](https://constructpro-manager.vercel.app/) |
 
 ---
 
@@ -186,23 +218,6 @@ npm run test:ci   # Runs all tests headlessly, generates HTML report
 
 ---
 
-## 🌐 Additional Projects (Web & Frontend)
-
-| Project | Description | Live | Stack |
-|---------|-------------|------|-------|
-| [🏗️ ConstructPro Manager](https://github.com/MSMITH71910/constructpro_manager) | All-in-one construction management ERP: payroll, estimating, time clock, blueprints, contracts | [Live](https://constructpro-manager.vercel.app/) | JS, Bootstrap 5, Node.js |
-| [📊 Data Analyst Portfolio](https://github.com/MSMITH71910/data-analyst-portfolio) | Concrete mix performance dashboards + Bigfoot analysis — interactive KPIs, pivot tables | — | Excel, Google Sheets |
-| [📋 Data Entry Portfolio](https://github.com/MSMITH71910/data-entry-portfolio) | Data Entry Specialist portfolio — spreadsheet mastery, before-and-after data cleaning, case studies, and 99.9% accuracy | [Live](https://msmith71910.github.io/data-entry-portfolio/) | HTML, CSS |
-| [🏠 Real Estate Demo](https://github.com/MSMITH71910/real_estate_demo_site) | Full-featured real estate site with AI lead qualifier, showing scheduler & mortgage calculator | [Live](https://msmith71910.github.io/real_estate_demo_site/) | HTML, CSS, JS |
-| [🍽️ Restaurant Demo](https://github.com/MSMITH71910/Restaurant_Demo_site) | Bella Roma Italian Kitchen — AI chatbot, reservations, review automation | [Live](https://msmith71910.github.io/Restaurant_Demo_site/) | HTML, CSS, JS |
-| [💅 Salon & Spa Demo](https://github.com/MSMITH71910/Salon_Spa_Demo_SIte) | Luxe Beauty Studio with AI booking chatbot & retention automations | [Live](https://msmith71910.github.io/Salon_Spa_Demo_SIte/) | HTML, CSS, JS |
-| [🔭 NASA APOD Explorer](https://github.com/MSMITH71910/NASA-APoD-Explorer) | Explore NASA Astronomy Picture of the Day with search & history | [Live](https://nasaapodexplorer.vercel.app/) | Dart/Flutter |
-| [☕ Discover Coffee Stores](https://github.com/MSMITH71910/discover-coffee-stores) | Next.js app to find local coffee shops using geolocation | [Live](https://discover-coffee-stores-pied.vercel.app/) | Next.js, TypeScript |
-| [📊 BI Portfolio](https://github.com/MSMITH71910/Business-Intelligence-Analyst) | Dashboards & analytics projects | — | Power BI, SQL, Excel |
-| [🛍️ Crwn Clothing](https://github.com/MSMITH71910/crwn-clothing) | Full e-commerce frontend with auth and Stripe | — | React, Firebase, SCSS |
-
----
-
 ## 🛠️ Core Skills
 
 ### ✅ Python & Django — Full-Stack Development *(Primary Strength)*
@@ -281,8 +296,9 @@ npm run test:ci   # Runs all tests headlessly, generates HTML report
 
 ## 💼 What I'm Looking For
 
-I'm actively seeking **remote roles** where I can contribute from day one:
+I run **Smith Development Labs** and am also open to remote roles where I can contribute from day one:
 
+- 🏢 **Small Business Owner** — If you need an affordable, professional website, [let's talk](mailto:msmith@smithdevlabs.com)
 - 🧪 **QA Engineer / SDET** — Playwright + TypeScript framework, contract testing, k6 load testing, WCAG accessibility — full QA portfolio at [msmith71910.github.io/qa-portfolio](https://msmith71910.github.io/qa-portfolio)
 - 🐍 **Python / Django Full-Stack Developer** — live deployed apps, REST APIs, ORM, full-stack deployment
 - 🖥️ **IT Support / Help Desk** — CompTIA A+ certified, 8 years forensics, real break/fix experience
@@ -295,6 +311,7 @@ I work hard, learn fast, and I'm honest about where I am in my journey. If you n
 
 ## 🔭 Currently Working On
 
+- 🚀 **Launching Smith Development Labs** — website going live soon, currently accepting new clients (📞 484-844-3448)
 - **QA Portfolio** — Expanding all 3 projects with additional test cases and CI integrations
 - Expanding the Django CV Generator with PDF export and user accounts
 - Completing Google Business Intelligence certification (Google/Coursera)
@@ -306,12 +323,14 @@ I work hard, learn fast, and I'm honest about where I am in my journey. If you n
 
 <div align="center">
 
+[![Smith Dev Labs](https://img.shields.io/badge/Smith_Dev_Labs-Hire_Us-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://resellermarketingsite.smithdevelopmentlabs.multisiteadmin.com/a/preview)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Michael_Smith-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-smith-2b38b260)
 [![GitHub](https://img.shields.io/badge/GitHub-MSMITH71910-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSMITH71910)
-[![Email](https://img.shields.io/badge/Email-M.Smith71910@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:M.Smith71910@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-SmithDevLabs-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://msmith71910.github.io/smithdevlabs_prosite/)
+[![Business Email](https://img.shields.io/badge/Business-msmith@smithdevlabs.com-FF5722?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msmith@smithdevlabs.com)
+[![Personal Email](https://img.shields.io/badge/Personal-M.Smith71910@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:M.Smith71910@gmail.com)
 [![QA Portfolio](https://img.shields.io/badge/QA_Portfolio-msmith71910.github.io-00D4FF?style=for-the-badge&logo=github&logoColor=white)](https://msmith71910.github.io/qa-portfolio)
 
+### 🏢 Need an affordable website for your small business? [Get your FREE demo today.](mailto:msmith@smithdevlabs.com)
 ### 🚀 Open to remote opportunities — QA Engineer, Python/Django, IT Support, AI/ML, or Business Intelligence
 
 [![Snake animation](https://github.com/MSMITH71910/MSMITH71910/raw/output/github-contribution-grid-snake.svg)](https://github.com/MSMITH71910/MSMITH71910/blob/output/github-contribution-grid-snake.svg)
