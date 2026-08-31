@@ -29,7 +29,7 @@ I'm the founder of **Smith Development Labs**, where we build high-quality, prof
 
 📞 (484) 844-3448 &nbsp;|&nbsp; 📧 msmith@smithdevlabs.com &nbsp;|&nbsp; 📍 Newtown Square, PA
 
-[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-Smith_Dev_Labs-FF5722?style=for-the-badge&logo=google-calendar&logoColor=white)](https://resellermarketingsite.smithdevelopmentlabs.multisiteadmin.com/a/preview)
+[![Schedule a Call](https://img.shields.io/badge/Schedule_a_Call-Smith_Dev_Labs-FF5722?style=for-the-badge&logo=google-calendar&logoColor=white)](https://smithdevlabs.com)
 
 ---
 
