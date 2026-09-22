@@ -17,7 +17,7 @@
 
 > **Newtown Square's most-trusted website design & digital agency** — serving small businesses locally and nationwide.
 
-Excited to announce  Smith Development Labs is officially launching next month! 
+Excited to announce  Smith Development Labs is officially launched! 
 I'm the founder of **Smith Development Labs**, where we build high-quality, professional websites for small businesses at a fraction of what other agencies charge. Every project starts with a **FREE no-obligation demo** — you see your site before you pay us a dime.
 
 ✔ **Save Time** — Stop struggling with DIY builders. Delegate to the pros.
@@ -25,7 +25,7 @@ I'm the founder of **Smith Development Labs**, where we build high-quality, prof
 ✔ **Look Professional** — An outdated site is costing you clients right now.
 ✔ **Grow Your Business** — SEO-optimized designs built to attract customers.
 
-🚀 **Site launching soon — currently accepting new clients.**
+🚀 **currently accepting new clients.**
 
 📞 (484) 844-3448 &nbsp;|&nbsp; 📧 msmith@smithdevlabs.com &nbsp;|&nbsp; 📍 Newtown Square, PA
 
