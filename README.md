@@ -314,7 +314,7 @@ I work hard, learn fast, and I'm honest about where I am in my journey. If you n
 
 ## 🔭 Currently Working On
 
-- 🚀 **Launching Smith Development Labs** — website going live soon, currently accepting new clients (📞 484-844-3448)
+- 🚀 **Launched Smith Development Labs** — website is Live, currently accepting new clients (📞 484-844-3448)
 - **QA Portfolio** — Expanding all 3 projects with additional test cases and CI integrations
 - Expanding the Django CV Generator with PDF export and user accounts
 - Completing Google Business Intelligence certification (Google/Coursera)
